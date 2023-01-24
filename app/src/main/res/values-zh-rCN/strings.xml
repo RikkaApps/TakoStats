@@ -76,7 +76,7 @@
     <string name="compat_mode_overlay">兼容模式叠加层</string>
     <string name="compat_mode_overlay_description">只有在您的设备上无法显示叠加层时才应使用兼容模式。</string>
     <string name="compat_mode_overlay_description_limits">在兼容模式下，由于叠加层是由应用显示，因此存在一些限制。</string>
-    <string name="compat_mode_overlay_description_limits_1">某些应用在有其他应用覆盖在其上时（例如，Android 系统的程序包安装器）会拒绝响应用户操作。您可以从通知中暂时隐藏叠加层。</string>
+    <string name="compat_mode_overlay_description_limits_1">某些应用在有其他应用覆盖在其上时（例如，Android 系统的程序包安装器）会拒绝响应用户操作。您可以从通知或快速设置磁贴中暂时隐藏叠加层。</string>
     <string name="compat_mode_overlay_description_limits_2">无法在某些应用上方显示（例如，Android 系统的设置）。</string>
     <string name="compat_mode_overlay_description_limits_3">需要为此应用关闭电池优化。</string>
     <string name="compat_mode_overlay_requires_display_over_other_apps">请授予”显示在其他应用的上层“权限。</string>

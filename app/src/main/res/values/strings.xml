@@ -81,7 +81,7 @@
     <string name="compat_mode_overlay">Compatibility mode overlay</string>
     <string name="compat_mode_overlay_description">Compatibility mode should only be used if overlay cannot be displayed on your device.</string>
     <string name="compat_mode_overlay_description_limits">Under compatibility mode, as the overlay is shown by the app, there are some limits.</string>
-    <string name="compat_mode_overlay_description_limits_1">Some apps (e.g., Android system\'s Package Installer) refuse to respond user actions if there are apps show over it. You can hide the overlay through the notification temporarily.</string>
+    <string name="compat_mode_overlay_description_limits_1">Some apps (e.g., Android system\'s Package Installer) refuse to respond user actions if there are apps show over it. You can hide the overlay through the notification or the Quick Settings tile temporarily.</string>
     <string name="compat_mode_overlay_description_limits_2">Cannot display over some apps (e.g., Android system\'s Settings).</string>
     <string name="compat_mode_overlay_description_limits_3">Battery optimization needs to be disabled for this app.</string>
     <string name="compat_mode_overlay_requires_display_over_other_apps">Please grant \"Display over other apps\" permission.</string>

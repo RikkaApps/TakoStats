@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="translators">AndroPlus</string>
     <string name="start">開始</string>
@@ -18,7 +19,7 @@
     <string name="requires_shizuku_description">このアプリの動作には Shizuku が必要です。Shizuku はオープンソースプロジェクトです。</string>
     <string name="requires_shizuku_description_rooted">root 化済みデバイスではオープンソースな Magisk モジュール Sui を代わりに使えます。</string>
     <string name="requires_shizuku_button_download">%s をダウンロード</string>
-    <string name="shizuku_is_not_installed_or_running">Shizuku がインストールされていないか動作していません</string>
+    <string name="shizuku_is_not_installed_or_running">Shizuku がインストールされていないか動作していません。</string>
     <string name="avg_fps">平均 FPS</string>
     <string name="total_frames">合計フレーム</string>
     <string name="avg_frame_time">平均フレーム時間</string>

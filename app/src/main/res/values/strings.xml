@@ -1,4 +1,6 @@
 <resources>
+    <!-- Add your name here if you contributed to the translation-->
+    <string name="translators">(developers)</string>
     <string name="app_name" translatable="false">TakoStats</string>
     <string name="start">Start</string>
     <string name="stop">Stop</string>

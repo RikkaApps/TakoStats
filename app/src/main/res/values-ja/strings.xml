@@ -1,4 +1,5 @@
 <resources>
+    <string name="translators">AndroPlus</string>
     <string name="start">開始</string>
     <string name="stop">停止</string>
     <string name="service_is_running">サービス実行中</string>

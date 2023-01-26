@@ -91,4 +91,9 @@
     <string name="dialog_delete_selected_records_message">您确定要删除选中的记录吗？该操作无法撤消。</string>
     <string name="select_all">全选</string>
     <string name="select_inverse">反选</string>
+    <string name="customize_overlay_hide_from_screen_captures">不要在屏幕截图中显示</string>
+    <string name="customize_overlay_hide_from_screen_captures_summary">从屏幕截图和屏幕录像中隐藏叠加层</string>
+    <string name="this_feature_is_not_supported_by_your_device">您的设备不支持本功能</string>
+    <string name="customize_overlay_general">通用</string>
+
 </resources>

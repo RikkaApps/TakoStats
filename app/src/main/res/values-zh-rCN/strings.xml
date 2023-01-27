@@ -24,11 +24,8 @@
     <string name="avg_frame_time">平均帧生成时间</string>
     <string name="max_frame_time">最大帧生成时间</string>
     <string name="frame_time">帧生成时间</string>
-    <string name="chart_performance_marker">%1$.1f FPS\n于 %2$s</string>
-    <string name="chart_cpu_marker">%1$.1f%%\n于 %2$s</string>
-    <string name="chart_cpu_frequency_marker">%1$d MHz\n于 %2$s</string>
     <string name="chart_frame_time_marker">%1$.2f ms\n于第 %2$d 帧</string>
-    <string name="chart_temperature_marker_celsius">%1$.1f ℃\n于 %2$s</string>
+    <string name="chart_marker">%1$s\n于 %2$s</string>
     <string name="percentile_99_fps">最低每秒帧数（99%）</string>
     <string name="percentile_95_fps">最低每秒帧数（95%）</string>
     <string name="delete">删除</string>

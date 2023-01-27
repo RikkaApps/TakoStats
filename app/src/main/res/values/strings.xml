@@ -26,11 +26,8 @@
     <string name="avg_frame_time">Avg frametime</string>
     <string name="max_frame_time">Max frametime</string>
     <string name="frame_time">Frametime</string>
-    <string name="chart_performance_marker">%1$.1f FPS\nat %2$s</string>
-    <string name="chart_cpu_marker">%1$.1f%%\nat %2$s</string>
-    <string name="chart_cpu_frequency_marker">%1$d MHz\nat %2$s</string>
     <string name="chart_frame_time_marker">%1$.2f ms\nat frame %2$d</string>
-    <string name="chart_temperature_marker_celsius">%1$.1f ℃\nat %2$s</string>
+    <string name="chart_marker">%1$s\nat %2$s</string>
     <string name="percentile_99_fps">99th %ile min FPS</string>
     <string name="percentile_95_fps">95th %ile min FPS</string>
     <string name="delete">Delete</string>

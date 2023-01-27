@@ -95,7 +95,7 @@
     <string name="customize_overlay_current">电流</string>
     <string name="customize_overlay_current_summary">电池放电电流\n充电时不可用</string>
     <string name="customize_overlay_voltage">电压</string>
-    <string name="customize_overlay_voltage_summary">电池电压</string>
+    <string name="customize_overlay_voltage_summary">电池电压\n充电时不可用</string>
     <string name="customize_overlay_power">功耗</string>
     <string name="customize_overlay_power_summary">由电池电流和电压计算得出</string>
     <string name="customize_overlay_frame_power">每帧功耗</string>

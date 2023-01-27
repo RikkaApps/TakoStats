@@ -91,6 +91,7 @@
     <string name="customize_overlay_hide_from_screen_captures">不要在屏幕截图中显示</string>
     <string name="customize_overlay_hide_from_screen_captures_summary">从屏幕截图和屏幕录像中隐藏叠加层</string>
     <string name="this_feature_is_not_supported_by_your_device">您的设备不支持本功能</string>
+    <string name="this_feature_is_not_supported_under_compat_mode">兼容模式下不支持此功能</string>
     <string name="customize_overlay_general">通用</string>
     <string name="customize_overlay_current">电流</string>
     <string name="customize_overlay_current_summary">电池放电电流\n充电时不可用</string>

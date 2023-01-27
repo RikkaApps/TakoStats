@@ -73,6 +73,7 @@
     <string name="customize_overlay_hide_from_screen_captures">Don\'t show on screenshots</string>
     <string name="customize_overlay_hide_from_screen_captures_summary">Hide overlay from screenshots and screen recordings</string>
     <string name="this_feature_is_not_supported_by_your_device">This feature is not supported by your device</string>
+    <string name="this_feature_is_not_supported_under_compat_mode">This feature is not supported under compatibility mode</string>
     <string name="duration_format">%1$dm %2$ds</string>
     <string name="dialog_purchase_not_verified_message">To avoid fraud, the purchase requires regular verification. Please do not block the app from accessing the network.\n\nThe app will stop working after a period of time without successful verification.</string>
     <string name="dialog_purchase_not_verified_button_retry">Retry</string>

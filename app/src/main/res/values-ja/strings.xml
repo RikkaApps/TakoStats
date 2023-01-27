@@ -99,4 +99,14 @@
     <string name="customize_overlay_hide_from_screen_captures_summary">スクリーンショットと画面録画ではオーバーレイを隠します</string>
     <string name="customize_overlay_hide_from_screen_captures">スクリーンショットに表示しない</string>
     <string name="customize_overlay_general">一般</string>
+    <string name="customize_overlay_frame_power_summary">消費電力と FPS から計算します</string>
+    <string name="customize_overlay_frame_power">フレーム毎の消費電力</string>
+    <string name="customize_overlay_power_summary">バッテリーの電流と電圧から計算します</string>
+    <string name="customize_overlay_power">消費電力</string>
+    <string name="customize_overlay_voltage_summary">バッテリー電圧
+\n充電中は計測できません</string>
+    <string name="customize_overlay_voltage">電圧</string>
+    <string name="customize_overlay_current_summary">バッテリー放電電流
+\n充電中は計測できません</string>
+    <string name="customize_overlay_current">電流</string>
 </resources>

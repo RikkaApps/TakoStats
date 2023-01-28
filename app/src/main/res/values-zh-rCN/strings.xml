@@ -105,4 +105,6 @@
     <string name="overlay_qs_tile_add">添加快速设置图块</string>
     <string name="ignore_overlay_qs_tile_title">不再提示快速设置图块？</string>
     <string name="ignore_overlay_qs_tile_message">您可以从快速设置中手动添加。</string>
+    <string name="avg_power_consumption">平均功耗</string>
+    <string name="avg_power_frame_consumption">平均每帧功耗</string>
 </resources>

@@ -112,4 +112,7 @@
     <string name="overlay_qs_tile_add">Add Quick Settings tile</string>
     <string name="ignore_overlay_qs_tile_title">No longer prompt for Quick Settings tile?</string>
     <string name="ignore_overlay_qs_tile_message">You can add it manually from Quick Settings.</string>
+    <string name="avg_power_consumption">Avg power</string>
+    <string name="avg_power_frame_consumption">Avg frame power</string>
+
 </resources>

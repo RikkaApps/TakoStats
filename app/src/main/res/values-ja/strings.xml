@@ -105,4 +105,9 @@
     <string name="customize_overlay_current_summary">バッテリー放電電流
 \n充電中は計測できません</string>
     <string name="customize_overlay_current">電流</string>
+    <string name="ignore_overlay_qs_tile_message">クイック設定から手動で追加できます。</string>
+    <string name="ignore_overlay_qs_tile_title">クイック設定タイルのプロンプトを表示しないようにしますか\?</string>
+    <string name="overlay_qs_tile_add">クイック設定タイルを追加</string>
+    <string name="overlay_qs_tile_description">クイック設定タイルでオーバーレイ表示をオンオフできます。</string>
+    <string name="this_feature_is_not_supported_under_compat_mode">この機能は互換モードでは利用できません</string>
 </resources>

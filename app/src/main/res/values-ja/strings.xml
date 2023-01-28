@@ -27,8 +27,8 @@
     <string name="frame_time">フレーム時間</string>
     <string name="chart_frame_time_marker">%1$.2f ms\nat frame %2$d</string>
     <string name="chart_marker">%1$s\nat %2$s</string>
-    <string name="percentile_99_fps">99th %ile 最小 FPS</string>
-    <string name="percentile_95_fps">95th %ile 最小 FPS</string>
+    <string name="percentile_99_fps">99 %ile 最小 FPS</string>
+    <string name="percentile_95_fps">95 %ile 最小 FPS</string>
     <string name="delete">削除</string>
     <string name="dialog_delete_record_title">記録を削除しますか?</string>
     <string name="dialog_delete_record_message">この記録を削除しますか? 削除すると元に戻せません。</string>
@@ -106,4 +106,3 @@
 \n充電中は計測できません</string>
     <string name="customize_overlay_current">電流</string>
 </resources>
-

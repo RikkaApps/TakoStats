@@ -110,4 +110,6 @@
     <string name="overlay_qs_tile_add">クイック設定タイルを追加</string>
     <string name="overlay_qs_tile_description">クイック設定タイルでオーバーレイ表示をオンオフできます。</string>
     <string name="this_feature_is_not_supported_under_compat_mode">この機能は互換モードでは利用できません</string>
+    <string name="avg_power_frame_consumption">平均フレーム消費電力</string>
+    <string name="avg_power_consumption">平均消費電力</string>
 </resources>

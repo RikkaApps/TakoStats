@@ -79,7 +79,7 @@
     <string name="compat_mode_overlay_description_limits_3">需要为此应用关闭电池优化。</string>
     <string name="compat_mode_overlay_requires_display_over_other_apps">请授予”显示在其他应用的上层“权限。</string>
     <string name="compat_mode_overlay_requires_notification">请授予通知权限。</string>
-    <string name="ignore_compat_mode_overlay_title">不再提示兼容模式?</string>
+    <string name="ignore_compat_mode_overlay_title">不再提示兼容模式？</string>
     <string name="ignore_compat_mode_overlay_message">您仍可以从三点菜单启用兼容模式。</string>
     <plurals name="items_selected">
         <item quantity="other">已选择 %d 项</item>
@@ -101,4 +101,8 @@
     <string name="customize_overlay_power_summary">由电池电流和电压计算得出</string>
     <string name="customize_overlay_frame_power">每帧功耗</string>
     <string name="customize_overlay_frame_power_summary">由功耗和 FPS 计算得出</string>
+    <string name="overlay_qs_tile_description">您可以使用快速设置图块来方便地开启或关闭叠加层。</string>
+    <string name="overlay_qs_tile_add">添加快速设置图块</string>
+    <string name="ignore_overlay_qs_tile_title">不再提示快速设置图块？</string>
+    <string name="ignore_overlay_qs_tile_message">您可以从快速设置中手动添加。</string>
 </resources>

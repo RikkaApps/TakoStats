@@ -108,5 +108,8 @@
     <string name="dialog_delete_selected_records_message">Are you sure to delete selected records? The operation cannot be undone.</string>
     <string name="select_all">Select all</string>
     <string name="select_inverse">Select inverse</string>
-
+    <string name="overlay_qs_tile_description">You can use Quick Settings tile to turn on/off overlay conveniently.</string>
+    <string name="overlay_qs_tile_add">Add Quick Settings tile</string>
+    <string name="ignore_overlay_qs_tile_title">No longer prompt for Quick Settings tile?</string>
+    <string name="ignore_overlay_qs_tile_message">You can add it manually from Quick Settings.</string>
 </resources>

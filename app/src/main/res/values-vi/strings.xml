@@ -1,2 +1,120 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="translators">LekhanguD</string>
+    <string name="ignore_compat_mode_overlay_message">Bạn có thể kích hoạt chế độ tương thích từ 3-chấm menu.</string>
+    <string name="overlay_trail_ends">Kết thúc thử nghiệm ཀ ʖ̯ ཀ</string>
+    <string name="percentile_99_fps">FPS thấp nhất (99%)</string>
+    <string name="customize_overlay_text_color">Màu phông chữ</string>
+    <string name="customize_overlay_text_size">Cỡ văn bản</string>
+    <string name="compat_mode_overlay_description_limits_1">Một số ứng dụng (e.g, Android system\'s Package Installer) sẽ không phản ứng hành động của người dùng nếu có lớp phủ hiển thị trên đó. Bạn có thể tạm thời ẩn lớp phủ thông qua thanh thông báo hoặc cài đặt nhanh.</string>
+    <string name="duration_format">%1$dm %2$ds</string>
+    <string name="customize_overlay_data">Dữ liệu</string>
+    <string name="delete">Xóa</string>
+    <string name="percentile_95_fps">95th %ile FPS tối thiểu</string>
+    <string name="max_frame_time">Thời gian khung hình tối đa</string>
+    <string name="avg_frame_time">Thời gian khung hình trung bình</string>
+    <string name="shizuku_is_not_installed_or_running">Shizuku chưa cài đặt hoặc chưa chạy (Mở Shizuku&gt;Gỡ lỗi không dây&gt;ủy quyền ứng dụng).</string>
+    <string name="requires_shizuku_description_rooted">Dành cho các thiết bị đã root, bạn có thể sử dụng Sui, một module Magisk mã nguồn mở.</string>
+    <string name="requires_shizuku_description">Ứng dụng yêu cầu Shizuhu để hoạt động. Shizuku là phần mềm mã nguồn mở.</string>
+    <string name="view_record">Xem bản ghi</string>
+    <string name="records_button_view">Xem bản ghi</string>
+    <string name="records">Bản ghi</string>
+    <string name="avg_power_frame_consumption">Lượng điện/khung hình trung bình</string>
+    <string name="avg_power_consumption">Lượng điện trung bình</string>
+    <string name="ignore_overlay_qs_tile_message">Bạn có thể thêm nó một cách thủ công từ Cài đặt nhanh.</string>
+    <string name="ignore_overlay_qs_tile_title">Không còn lời nhắc cho ô Cài đặt nhanh nữa\?</string>
+    <string name="overlay_qs_tile_add">Thêm ô Cài đặt nhanh</string>
+    <string name="overlay_qs_tile_description">Bạn có thể sử dụng ô Cài đặt nhanh để bật/tắt lớp phủ một cách thuận tiện.</string>
+    <string name="select_inverse">Chọn nghịch đảo</string>
+    <string name="select_all">Chọn tất cả</string>
+    <string name="dialog_delete_selected_records_message">Bạn có chắc nếu xóa bản ghi đã chọn không\? Hành động này không thể hoàn tác.</string>
+    <string name="dialog_delete_selected_records_title">Xóa các bản ghi được chọn\?</string>
+    <plurals name="items_selected">
+        <item quantity="other">%d mục được chọn</item>
+    </plurals>
+    <string name="ignore_compat_mode_overlay_title">Không còn lời nhắc về chế độ tương thích\?</string>
+    <string name="compat_mode_overlay_requires_notification">Hãy cấp quyền thông báo.</string>
+    <string name="compat_mode_overlay_requires_display_over_other_apps">Hãy cấp quyền \"Hiển thị trên các ứng dụng khác\".</string>
+    <string name="compat_mode_overlay_description_limits_3">\'Tối ưu hóa pin\' cần được vô hiệu hóa cho ứng dụng này.</string>
+    <string name="compat_mode_overlay_description_limits_2">Không thể hiển thị trên một số ứng dụng (e.g., Android system\'s Settings).</string>
+    <string name="compat_mode_overlay_description_limits">Trong chế độ tương thích, khi ứng dụng hiển thị lớp phủ, sẽ có một số giới hạn.</string>
+    <string name="compat_mode_overlay_description">Chế độ tương thích chỉ nên sử dụng nếu lớp phủ không thể hiển thị trên thiết bị của bạn.</string>
+    <string name="compat_mode_overlay">Lớp phủ chế độ tương thích</string>
+    <string name="notification_overlay_compat_mode_show">Hiện lớp phủ</string>
+    <string name="notification_overlay_compat_mode_hide">Ẩn lớp phủ</string>
+    <string name="notification_overlay_compat_mode_title">Hiển thị lớp phủ trong chế độ tương thích</string>
+    <string name="dont_show_again">Đừng hiện lại</string>
+    <string name="overlay_compat_mode_description">Ở một số thiết bị, lớp phủ có thể không hiện. Hãy thử chế độ tương thích.</string>
+    <string name="enable_compat_mode">Bật chế độ tương thích</string>
+    <string name="compat_mode">Chế độ tương thích</string>
+    <string name="record_not_purchased">Nếu bạn chưa mua sản phẩm, bạn chỉ có thể thấy dữ liệu của 5 phút và 20,000 khung hình đầu tiên.</string>
+    <string name="about">Về</string>
+    <string name="purchase">Mua</string>
+    <string name="purchase_description">Chúng tôi đã nỗ lực rất nhiều để phát triển ứng dụng này, nếu cảm thấy hữu ích và muốn ủng hộ nhà phát hành, hãy mua sản phẩm. 
+\nNếu bạn chưa mua, bạn có thể sử dụng lớp phủ 5 phút mỗi lần. Sau 5 phút, để sử dụng lại bạn cần khởi động lại một cách thủ công.</string>
+    <string name="dialog_purchase_not_verified_button_retry">Thử lại</string>
+    <string name="dialog_purchase_not_verified_message">Để tránh gian lận, việc mua hàng yêu cầu xác minh thường xuyên. Vui lòng không chặn ứng dụng truy cập mạng. 
+\n 
+\nỨng dụng sẽ ngừng hoạt động sau một khoảng thời gian mà không được xác minh thành công.</string>
+    <string name="this_feature_is_not_supported_under_compat_mode">Tính năng này không được hỗ trợ trong chế độ tương thích</string>
+    <string name="this_feature_is_not_supported_by_your_device">Tính năng này không được thiết bị của bạn hỗ trợ</string>
+    <string name="customize_overlay_hide_from_screen_captures_summary">Ẩn lớp phủ từ ảnh chụp màn hình và quay màn hình</string>
+    <string name="customize_overlay_hide_from_screen_captures">Đừng hiện khi chụp màn hình</string>
+    <string name="customize_overlay_frame_power_summary">Tính toán từ lượng điện tiêu thụ và FPS</string>
+    <string name="customize_overlay_frame_power">Lượng điện tiêu thụ/Khung hình</string>
+    <string name="customize_overlay_power_summary">Tính toàn từ lượng pin hiện tại và điện áp</string>
+    <string name="customize_overlay_power">Điện năng tiêu thụ</string>
+    <string name="customize_overlay_voltage_summary">Điện áp pin 
+\nKhông khả dụng khi sạc</string>
+    <string name="customize_overlay_voltage">Volt</string>
+    <string name="customize_overlay_current_summary">Dòng xã pin 
+\nKhông khả dụng khi sạc</string>
+    <string name="customize_overlay_current">Hiện tại</string>
+    <string name="customize_overlay_upload_speed">Tốc độ tải lên</string>
+    <string name="customize_overlay_download_speed">Tốc độ tải xuống</string>
+    <string name="customize_overlay_background_color">Màu nền</string>
+    <string name="customize_overlay_show_background">Nền</string>
+    <string name="customize_overlay_temperatures_may_not_support_all_devices">Tính khả dụng và độ chính xác của dữ liệu nhiệt độ khác nhau tùy theo thiết bị.</string>
+    <string name="customize_overlay_skin_temperature">Nhiệt độ bề mặt thiết bị</string>
+    <string name="customize_overlay_battery_temperature">Nhiệt độ pin</string>
+    <string name="customize_overlay_gpu_temperature">Nhiệt độ GPU</string>
+    <string name="customize_overlay_cpu_temperature">Nhiệt độ CPU</string>
+    <string name="customize_overlay_position_bottom_right">Dưới cùng bên phải</string>
+    <string name="customize_overlay_position_bottom_left">Dưới cùng bên trái</string>
+    <string name="customize_overlay_position_top_right">Phía trên bên phải</string>
+    <string name="customize_overlay_position_top_left">Phía trên bên trái</string>
+    <string name="customize_overlay_position">Vị trí</string>
+    <string name="customize_overlay_offset_y">Độ lệch dọc</string>
+    <string name="customize_overlay_offset_x">Độ lệch ngang</string>
+    <string name="customize_overlay_cpu_frequency">Xung nhịp CPU</string>
+    <string name="customize_overlay_cpu_usage">CPU sử dụng</string>
+    <string name="customize_overlay_layer_name_summary">Tên của layer được sử dụng để quay FPS</string>
+    <string name="customize_overlay_layer_name">Tên Layer</string>
+    <string name="customize_overlay_fps_summary">Khung hình/giây của ứng dụng nền</string>
+    <string name="customize_overlay_style">Style</string>
+    <string name="customize_overlay_general">Tổng quát</string>
+    <string name="customize_overlay">Tùy chỉnh lớp phủ</string>
+    <string name="no_records">Không bản ghi</string>
+    <string name="dialog_delete_record_message">Bạn có chắc để xóa bản ghi này không\? Không thể hoàn tác hành động này.</string>
+    <string name="dialog_delete_record_title">Xóa bản ghi\?</string>
+    <string name="chart_marker">%1$s
+\ntại %2$s</string>
+    <string name="chart_frame_time_marker">%1$.2f ms
+\ntại khung hình %2$d</string>
+    <string name="frame_time">Thời gian khung hình</string>
+    <string name="total_frames">Tổng khung hình</string>
+    <string name="avg_fps">FPS trung bình</string>
+    <string name="requires_shizuku_button_download">Tải xuống %s</string>
+    <string name="game_app">Ứng dụng trò chơi</string>
+    <string name="records_button_choose_app">Chọn ứng dụng để ghi nhận</string>
+    <string name="records_description">Ghi nhận thông tin hiệu suất cho những ứng dụng đã chọn.</string>
+    <string name="records_button_customize">Chỉnh sửa</string>
+    <string name="overlay_description">Hiển thị tốc độ khung hình và vài thông tin khác trên màn hình trong thời gian thực</string>
+    <string name="overlay">Lớp phủ</string>
+    <string name="service_version">Phiên bản %d</string>
+    <string name="service_is_upgrading">Đang nâng cấp</string>
+    <string name="service_is_not_running">Chưa hoạt động</string>
+    <string name="service_is_running">Đang hoạt động</string>
+    <string name="stop">Dừng lại</string>
+    <string name="start">Bắt đầu</string>
+</resources>

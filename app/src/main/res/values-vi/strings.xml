@@ -50,11 +50,12 @@
     <string name="record_not_purchased">Nếu bạn chưa mua sản phẩm, bạn chỉ có thể thấy dữ liệu của 5 phút và 20,000 khung hình đầu tiên.</string>
     <string name="about">Về</string>
     <string name="purchase">Mua</string>
-    <string name="purchase_description">Chúng tôi đã nỗ lực rất nhiều để phát triển ứng dụng này, nếu cảm thấy hữu ích và muốn ủng hộ nhà phát hành, hãy mua sản phẩm. 
+    <string name="purchase_description">Chúng tôi đã nỗ lực rất nhiều để phát triển ứng dụng này, nếu cảm thấy hữu ích và muốn ủng hộ nhà phát hành, hãy mua sản phẩm.
+\n
 \nNếu bạn chưa mua, bạn có thể sử dụng lớp phủ 5 phút mỗi lần. Sau 5 phút, để sử dụng lại bạn cần khởi động lại một cách thủ công.</string>
     <string name="dialog_purchase_not_verified_button_retry">Thử lại</string>
-    <string name="dialog_purchase_not_verified_message">Để tránh gian lận, việc mua hàng yêu cầu xác minh thường xuyên. Vui lòng không chặn ứng dụng truy cập mạng. 
-\n 
+    <string name="dialog_purchase_not_verified_message">Để tránh gian lận, việc mua hàng yêu cầu xác minh thường xuyên. Vui lòng không chặn ứng dụng truy cập mạng.
+\n
 \nỨng dụng sẽ ngừng hoạt động sau một khoảng thời gian mà không được xác minh thành công.</string>
     <string name="this_feature_is_not_supported_under_compat_mode">Tính năng này không được hỗ trợ trong chế độ tương thích</string>
     <string name="this_feature_is_not_supported_by_your_device">Tính năng này không được thiết bị của bạn hỗ trợ</string>
@@ -64,10 +65,10 @@
     <string name="customize_overlay_frame_power">Lượng điện tiêu thụ/Khung hình</string>
     <string name="customize_overlay_power_summary">Tính toàn từ lượng pin hiện tại và điện áp</string>
     <string name="customize_overlay_power">Điện năng tiêu thụ</string>
-    <string name="customize_overlay_voltage_summary">Điện áp pin 
+    <string name="customize_overlay_voltage_summary">Điện áp pin
 \nKhông khả dụng khi sạc</string>
     <string name="customize_overlay_voltage">Volt</string>
-    <string name="customize_overlay_current_summary">Dòng xã pin 
+    <string name="customize_overlay_current_summary">Dòng xã pin
 \nKhông khả dụng khi sạc</string>
     <string name="customize_overlay_current">Hiện tại</string>
     <string name="customize_overlay_upload_speed">Tốc độ tải lên</string>

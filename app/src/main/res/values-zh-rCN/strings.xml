@@ -59,7 +59,7 @@
     <string name="customize_overlay_download_speed">下载速度</string>
     <string name="customize_overlay_upload_speed">上传速度</string>
     <string name="duration_format">%1$d 分 %2$d 秒</string>
-    <string name="purchase_description">我们花费了很多心血来开发这个应用，如果您喜欢请考虑购买。\n未购买时，您每次可以使用叠加层五分钟。五分钟后，您需要手动重新启动服务才能再次使用叠加层。</string>
+    <string name="purchase_description">我们花费了很多心血来开发这个应用，如果您喜欢请考虑购买。\n\n未购买时，您每次可以使用叠加层五分钟。五分钟后，您需要手动重新启动服务才能再次使用叠加层。</string>
     <string name="purchase">购买</string>
     <string name="about">关于</string>
     <string name="record_not_purchased">未购买的情况下，您只可以查看前 5 分钟及前 20000 帧的数据。</string>

@@ -77,7 +77,7 @@
     <string name="duration_format">%1$dm %2$ds</string>
     <string name="dialog_purchase_not_verified_message">To avoid fraud, the purchase requires regular verification. Please do not block the app from accessing the network.\n\nThe app will stop working after a period of time without successful verification.</string>
     <string name="dialog_purchase_not_verified_button_retry">Retry</string>
-    <string name="purchase_description">We put a lot of effort into developing this app, please consider purchase if you like it.\nWhen not purchased, you can use the overlay for 5 minutes at a time. After 5 minutes, to use the overlay again, you need to restart the service manually.</string>
+    <string name="purchase_description">We put a lot of effort into developing this app, please consider purchase if you like it.\n\nWhen not purchased, you can use the overlay for 5 minutes at a time. After 5 minutes, to use the overlay again, you need to restart the service manually.</string>
     <string name="purchase">Purchase</string>
     <string name="about">About</string>
     <string name="record_not_purchased">Without purchasing, you can only view the data of the first 5 minutes and the first 20,000 frames.</string>

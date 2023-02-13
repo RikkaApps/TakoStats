@@ -62,7 +62,7 @@
     <string name="duration_format">%1$dm %2$ds</string>
     <string name="dialog_purchase_not_verified_message">不正防止のため、購入には定期的な認証が必要です。\n\n認証に成功しないまま一定期間が経過するとアプリが動作しなくなりますので、ネットワークへのアクセスを遮断しないようご注意ください。</string>
     <string name="dialog_purchase_not_verified_button_retry">再試行</string>
-    <string name="purchase_description">本アプリの開発には多くの労力を費やしており、気に入っていただけた場合は購入をご検討ください。\n未購入時はオーバーレイを5分だけ利用できます。5分経過後に再度オーバーレイを利用するには、手動でサービスを再起動する必要があります。</string>
+    <string name="purchase_description">本アプリの開発には多くの労力を費やしており、気に入っていただけた場合は購入をご検討ください。\n\n未購入時はオーバーレイを5分だけ利用できます。5分経過後に再度オーバーレイを利用するには、手動でサービスを再起動する必要があります。</string>
     <string name="purchase">購入</string>
     <string name="about">アプリ情報</string>
     <string name="record_not_purchased">未購入時は、最初の5分間と最初の2万フレームのデータのみ閲覧可能です。</string>

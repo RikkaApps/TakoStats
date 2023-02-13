@@ -107,4 +107,6 @@
     <string name="ignore_overlay_qs_tile_message">您可以从快速设置中手动添加。</string>
     <string name="avg_power_consumption">平均功耗</string>
     <string name="avg_power_frame_consumption">平均每帧功耗</string>
+    <string name="using_preview_os_description">您正在使用开发者预览版或测试版 Android 系统。若应用无法正常工作，请尝试更新到最新版本。</string>
+    <string name="using_unsupported_os_description">您正使用的 Android 版本尚未支持。若应用无法正常工作，请尝试更新到最新版本。</string>
 </resources>

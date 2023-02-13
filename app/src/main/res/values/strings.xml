@@ -114,5 +114,7 @@
     <string name="ignore_overlay_qs_tile_message">You can add it manually from Quick Settings.</string>
     <string name="avg_power_consumption">Avg power</string>
     <string name="avg_power_frame_consumption">Avg frame power</string>
+    <string name="using_preview_os_description">You are using a developer preview or beta version of Android. If the app is not working properly, please try updating to the latest version.</string>
+    <string name="using_unsupported_os_description">The Android version you are using is not yet supported. If the app does not work properly, please try updating to the latest version.</string>
 
 </resources>

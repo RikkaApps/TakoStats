@@ -2,7 +2,6 @@
 <resources>
     <string name="translators">LekhanguD</string>
     <string name="ignore_compat_mode_overlay_message">Bạn có thể kích hoạt chế độ tương thích từ 3-chấm menu.</string>
-    <string name="overlay_trail_ends">Kết thúc thử nghiệm ཀ ʖ̯ ཀ</string>
     <string name="percentile_99_fps">FPS thấp nhất (99%)</string>
     <string name="customize_overlay_text_color">Màu phông chữ</string>
     <string name="customize_overlay_text_size">Cỡ văn bản</string>

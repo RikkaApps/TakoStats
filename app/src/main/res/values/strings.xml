@@ -81,7 +81,6 @@
     <string name="purchase">Purchase</string>
     <string name="about">About</string>
     <string name="record_not_purchased">Without purchasing, you can only view the data of the first 5 minutes and the first 20,000 frames.</string>
-    <string name="overlay_trail_ends">Trail ends</string>
     <string name="compat_mode">Compatibility mode</string>
     <string name="enable_compat_mode">Enable compatibility mode</string>
     <string name="overlay_compat_mode_description">On some devices, overlay cannot be shown. Please try compatibility mode instead.</string>
@@ -116,5 +115,6 @@
     <string name="avg_power_frame_consumption">Avg frame power</string>
     <string name="using_preview_os_description">You are using a developer preview or beta version of Android. If the app is not working properly, please try updating to the latest version.</string>
     <string name="using_unsupported_os_description">The Android version you are using is not yet supported. If the app does not work properly, please try updating to the latest version.</string>
+    <string name="overlay_trial_ended">Trial has ended.\nPlease consider purchasing or restarting the trial by restarting the service.</string>
 
 </resources>

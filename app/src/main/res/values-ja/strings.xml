@@ -66,7 +66,6 @@
     <string name="purchase">購入</string>
     <string name="about">アプリ情報</string>
     <string name="record_not_purchased">未購入時は、最初の5分間と最初の2万フレームのデータのみ閲覧可能です。</string>
-    <string name="overlay_trail_ends">終了</string>
     <string name="compat_mode">互換モード</string>
     <string name="enable_compat_mode">互換モードを有効化</string>
     <string name="overlay_compat_mode_description">一部の端末では、オーバーレイが表示されません。その場合は互換モードをお試しください。</string>

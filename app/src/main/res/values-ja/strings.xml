@@ -113,4 +113,6 @@
     <string name="avg_power_consumption">平均消費電力</string>
     <string name="using_unsupported_os_description">お使いの Android バージョンには対応していません。アプリがうまく動作しない場合は、最新版にアップデートしてみてください。</string>
     <string name="using_preview_os_description">デベロッパープレビューかベータ版の Android を使用中です。アプリがうまく動作しない場合は、最新版にアップデートしてみてください。</string>
+    <string name="overlay_trial_ended">トライアルが終了しました。
+\n購入するか、サービスをリスタートしてトライアルを再開してください。</string>
 </resources>

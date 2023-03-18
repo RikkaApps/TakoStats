@@ -115,4 +115,8 @@
     <string name="using_preview_os_description">デベロッパープレビューかベータ版の Android を使用中です。アプリがうまく動作しない場合は、最新版にアップデートしてみてください。</string>
     <string name="overlay_trial_ended">トライアルが終了しました。
 \n購入するか、サービスをリスタートしてトライアルを再開してください。</string>
+    <string name="temperature_unit_fahrenheit">華氏 (℉)</string>
+    <string name="temperature_unit_celsius">摂氏 (℃)</string>
+    <string name="settings_temperature_unit">温度の単位</string>
+    <string name="settings">設定</string>
 </resources>

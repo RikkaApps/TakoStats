@@ -116,5 +116,8 @@
     <string name="using_preview_os_description">You are using a developer preview or beta version of Android. If the app is not working properly, please try updating to the latest version.</string>
     <string name="using_unsupported_os_description">The Android version you are using is not yet supported. If the app does not work properly, please try updating to the latest version.</string>
     <string name="overlay_trial_ended">Trial has ended.\nPlease consider purchasing or restarting the trial by restarting the service.</string>
-
+    <string name="settings">Settings</string>
+    <string name="settings_temperature_unit">Temperature unit</string>
+    <string name="temperature_unit_celsius">Celsius (℃)</string>
+    <string name="temperature_unit_fahrenheit">Fahrenheit (℉)</string>
 </resources>

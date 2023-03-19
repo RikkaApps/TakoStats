@@ -1,5 +1,5 @@
 <resources>
-    <string name="translators">(developers)</string>
+    <string name="translators">cracky5322</string>
     <string name="start">開啟</string>
     <string name="stop">停止</string>
     <string name="service_is_running">服務正在執行</string>

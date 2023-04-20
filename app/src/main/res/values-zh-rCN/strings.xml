@@ -113,4 +113,5 @@
     <string name="settings_temperature_unit">温度单位</string>
     <string name="temperature_unit_celsius">摄氏度（℃）</string>
     <string name="temperature_unit_fahrenheit">华氏度（℉）</string>
+    <string name="thank_you_for_participating_in_open_beta">感谢您参与了公开测试（您购买时的价格已包含了优惠）</string>
 </resources>

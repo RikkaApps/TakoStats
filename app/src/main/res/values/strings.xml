@@ -120,4 +120,5 @@
     <string name="settings_temperature_unit">Temperature unit</string>
     <string name="temperature_unit_celsius">Celsius (℃)</string>
     <string name="temperature_unit_fahrenheit">Fahrenheit (℉)</string>
+    <string name="thank_you_for_participating_in_open_beta">Thank you for participating in the public beta (a discount was included in your purchase price)</string>
 </resources>

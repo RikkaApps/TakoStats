@@ -1,2 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="customize_overlay_data">Data</string>
+    <string name="customize_overlay_general">Umum</string>
+    <string name="customize_overlay">Sesuaikan overlay</string>
+    <string name="no_records">Tidak ada rekaman</string>
+    <string name="dialog_delete_record_message">Apakah anda yakin untuk menghapus catatan ini\? Operasi tidak dapat dibatalkan</string>
+    <string name="dialog_delete_record_title">Hapus rekaman\?</string>
+    <string name="delete">Hapus</string>
+    <string name="shizuku_is_not_installed_or_running">Shizuku tidak terinstal atau servis tidak berjalan.</string>
+    <string name="requires_shizuku_description_rooted">Untuk perangkat yang sudah di root, anda dapat menggunakan Sui, sebuah modul terbuka Magisk.</string>
+    <string name="requires_shizuku_description">Aplikasi ini membutuhkan aplikasi Shizuku agar bisa bekerja dengan baik. Shizuku adalah projek aplikasi tebuka.</string>
+    <string name="game_app">Aplikasi game</string>
+    <string name="view_record">Lihat rekaman</string>
+    <string name="records_button_choose_app">Pilih aplikasi untuk di rekam</string>
+    <string name="records_button_view">Lihat rekaman</string>
+    <string name="records_description">Informasi rekaman peforma untuk aplikasi terpilih</string>
+    <string name="records">Rekaman</string>
+    <string name="records_button_customize">Sesuaikan</string>
+    <string name="overlay_description">Tampilan Real Time dari Frame Rate dan informasi lainnya di layar</string>
+    <string name="service_version">Versi %d</string>
+    <string name="service_is_not_running">Servis tidak berjalan</string>
+    <string name="service_is_running">Servis Sedang Berjalan</string>
+    <string name="stop">Berhenti</string>
+    <string name="start">Mulai</string>
+</resources>

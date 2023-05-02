@@ -43,7 +43,6 @@
     <string name="notification_overlay_compat_mode_hide">Ẩn lớp phủ</string>
     <string name="notification_overlay_compat_mode_title">Hiển thị lớp phủ trong chế độ tương thích</string>
     <string name="dont_show_again">Đừng hiện lại</string>
-    <string name="overlay_compat_mode_description">Ở một số thiết bị, lớp phủ có thể không hiện. Hãy thử chế độ tương thích.</string>
     <string name="enable_compat_mode">Bật chế độ tương thích</string>
     <string name="compat_mode">Chế độ tương thích</string>
     <string name="record_not_purchased">Nếu bạn chưa mua sản phẩm, bạn chỉ có thể thấy dữ liệu của 5 phút và 20,000 khung hình đầu tiên.</string>

@@ -83,7 +83,6 @@
     <string name="record_not_purchased">Without purchasing, you can only view the data of the first 5 minutes and the first 20,000 frames.</string>
     <string name="compat_mode">Compatibility mode</string>
     <string name="enable_compat_mode">Enable compatibility mode</string>
-    <string name="overlay_compat_mode_description">On some devices, overlay cannot be shown. Please try compatibility mode instead.</string>
     <string name="dont_show_again">Don\'t show again</string>
     <string name="notification_channel_overlay_compat_mode" translatable="false">@string/compat_mode_overlay</string>
     <string name="notification_overlay_compat_mode_title">Displaying overlay under compatibility mode</string>
@@ -121,4 +120,7 @@
     <string name="temperature_unit_celsius">Celsius (℃)</string>
     <string name="temperature_unit_fahrenheit">Fahrenheit (℉)</string>
     <string name="thank_you_for_participating_in_open_beta">Thank you for participating in the public beta (a discount was included in your purchase price)</string>
+    <string name="compatibility_mode_overlay_description">If you find any problems, including but not limited to \"overlay does not display\", \"service stops immediately after starting\", it may be because your device has made too many modifications to the Android system, please enable the compatibility mode overlay and try again.</string>
+    <string name="compatibility_mode_overlay_button_my_device_has_no_problem">No problem on my device</string>
+
 </resources>

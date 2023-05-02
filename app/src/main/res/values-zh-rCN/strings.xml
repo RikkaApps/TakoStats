@@ -65,7 +65,6 @@
     <string name="record_not_purchased">未购买的情况下，您只可以查看前 5 分钟及前 20000 帧的数据。</string>
     <string name="compat_mode">兼容模式</string>
     <string name="enable_compat_mode">启用兼容模式</string>
-    <string name="overlay_compat_mode_description">在某些设备上，无法显示叠加层。请尝试改用兼容模式。</string>
     <string name="dont_show_again">不再显示</string>
     <string name="notification_overlay_compat_mode_title">正在兼容模式下显示叠加层</string>
     <string name="notification_overlay_compat_mode_hide">隐藏叠加层</string>
@@ -114,4 +113,6 @@
     <string name="temperature_unit_celsius">摄氏度（℃）</string>
     <string name="temperature_unit_fahrenheit">华氏度（℉）</string>
     <string name="thank_you_for_participating_in_open_beta">感谢您参与了公开测试（您购买时的价格已包含了优惠）</string>
+    <string name="compatibility_mode_overlay_description">如果你发现任何问题，包括但不限于叠加层不显示，服务启动后立刻停止，这可能是因为您的设备对 Android 系统进行了过多的修改，请启用兼容模式叠加层后再试。</string>
+    <string name="compatibility_mode_overlay_button_my_device_has_no_problem">我的设备上没有问题</string>
 </resources>

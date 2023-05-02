@@ -68,7 +68,6 @@
     <string name="record_not_purchased">未購入時は、最初の5分間と最初の2万フレームのデータのみ閲覧可能です。</string>
     <string name="compat_mode">互換モード</string>
     <string name="enable_compat_mode">互換モードを有効化</string>
-    <string name="overlay_compat_mode_description">一部の端末では、オーバーレイが表示されません。その場合は互換モードをお試しください。</string>
     <string name="dont_show_again">再度表示しない</string>
     <string name="notification_overlay_compat_mode_title">互換モードでオーバーレイを表示中</string>
     <string name="notification_overlay_compat_mode_hide">オーバーレイを隠す</string>

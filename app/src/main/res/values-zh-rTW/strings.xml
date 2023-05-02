@@ -65,7 +65,6 @@
     <string name="record_not_purchased">未購買的情況下，您只可以檢視前 5 分鐘及前 20000 幀的資料。</string>
     <string name="compat_mode">相容模式</string>
     <string name="enable_compat_mode">啟用相容模式</string>
-    <string name="overlay_compat_mode_description">在某些裝置上，無法顯示疊加層。請嘗試改用相容模式。</string>
     <string name="dont_show_again">不再顯示</string>
     <string name="notification_overlay_compat_mode_title">正在相容模式下顯示疊加層</string>
     <string name="notification_overlay_compat_mode_hide">隱藏疊加層</string>

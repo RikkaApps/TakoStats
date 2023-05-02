@@ -119,4 +119,6 @@
     <string name="settings_temperature_unit">温度の単位</string>
     <string name="settings">設定</string>
     <string name="thank_you_for_participating_in_open_beta">公開ベータに協力していただきありがとうございます。(購入金額には割引が含まれています)</string>
+    <string name="compatibility_mode_overlay_button_my_device_has_no_problem">このデバイスでは問題ありません</string>
+    <string name="compatibility_mode_overlay_description">「オーバーレイが表示されない」「起動後すぐにサービスが停止する」などの不具合がある場合は、お使いのデバイスが Android のシステムに手を加えすぎていることが考えられます。互換モードのオーバーレイを有効にして再度お試しください。</string>
 </resources>

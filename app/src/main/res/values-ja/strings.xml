@@ -121,4 +121,13 @@
     <string name="thank_you_for_participating_in_open_beta">公開ベータに協力していただきありがとうございます。(購入金額には割引が含まれています)</string>
     <string name="compatibility_mode_overlay_button_my_device_has_no_problem">このデバイスでは問題ありません</string>
     <string name="compatibility_mode_overlay_description">「オーバーレイが表示されない」「起動後すぐにサービスが停止する」などの不具合がある場合は、お使いのデバイスが Android のシステムに手を加えすぎていることが考えられます。互換モードのオーバーレイを有効にして再度お試しください。</string>
+    <string name="export_other_locations_description">このデバイス、または Google Drive・OneDrive などの SAF (Storage Access Framework) をサポートするアプリからフォルダを選択してください。</string>
+    <string name="export_other_locations">その他の場所</string>
+    <string name="export_device_storage_description">%s フォルダ</string>
+    <string name="export_device_storage">デバイスストレージ</string>
+    <string name="export_the_file_to">ファイルのエクスポート先</string>
+    <string name="export_description_zip">フレーム時間とその他のデータは2つの別々の CSV ファイルにエクスポートされ、その後 ZIP ファイルとして圧縮されます。</string>
+    <string name="export_description">Excel などの表計算ソフトでデータを加工できるよう、CSV 形式（カンマ区切り）でデータを出力します。</string>
+    <string name="export_not_purchased">未購入時は最初の5分間と20,000フレーム分のデータのみエクスポートできます。</string>
+    <string name="export">エクスポート</string>
 </resources>

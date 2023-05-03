@@ -122,5 +122,14 @@
     <string name="thank_you_for_participating_in_open_beta">Thank you for participating in the public beta (a discount was included in your purchase price)</string>
     <string name="compatibility_mode_overlay_description">If you find any problems, including but not limited to \"overlay does not display\", \"service stops immediately after starting\", it may be because your device has made too many modifications to the Android system, please enable the compatibility mode overlay and try again.</string>
     <string name="compatibility_mode_overlay_button_my_device_has_no_problem">No problem on my device</string>
+    <string name="export">Export</string>
+    <string name="export_not_purchased">Without purchasing, you can only export the data of the first 5 minutes and the first 20,000 frames.</string>
+    <string name="export_description">Export the record in CSV format (comma-separated values), so that you can further process of data in spreadsheet software such as Excel.</string>
+    <string name="export_description_zip">Frametime and all other data will be exported into two separate CSV files, then they will be packaged as a ZIP file.</string>
+    <string name="export_the_file_to">Export the file to</string>
+    <string name="export_device_storage">Device storage</string>
+    <string name="export_device_storage_description">%s folder</string>
+    <string name="export_other_locations">Other locations</string>
+    <string name="export_other_locations_description">Choose a folder from this device or any app that supports SAF (Storage Access Framework) such as Google Drive, OneDrive, etc.</string>
 
 </resources>

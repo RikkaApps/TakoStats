@@ -115,4 +115,14 @@
     <string name="thank_you_for_participating_in_open_beta">感谢您参与了公开测试（您购买时的价格已包含了优惠）</string>
     <string name="compatibility_mode_overlay_description">如果你发现任何问题，包括但不限于叠加层不显示，服务启动后立刻停止，这可能是因为您的设备对 Android 系统进行了过多的修改，请启用兼容模式叠加层后再试。</string>
     <string name="compatibility_mode_overlay_button_my_device_has_no_problem">我的设备上没有问题</string>
+    <string name="export">导出</string>
+    <string name="export_not_purchased">未购买的情况下，您只可以导出前 5 分钟及前 20000 帧的数据。</string>
+    <string name="export_description">将记录导出为 CSV 格式（逗号分隔值），以便您可以在电子表格软件（例如 Excel）中对数据进行进一步处理。</string>
+    <string name="export_description_zip">帧生成时间和其他所有数据将分别被导出到两个 CSV 文件中，然后它们会被打包为一个 ZIP 文件。</string>
+    <string name="export_the_file_to">导出文件到</string>
+    <string name="export_device_storage">设备存储</string>
+    <string name="export_device_storage_description">%s 文件夹</string>
+    <string name="export_other_locations">其他位置</string>
+    <string name="export_other_locations_description">从本设备或其他任意支持 SAF（存储访问框架）的应用（例如 Google Drive，OneDrive 等）中任选一个位置</string>
+
 </resources>

@@ -118,8 +118,10 @@
     <string name="export">导出</string>
     <string name="export_not_purchased">未购买的情况下，您只可以导出前 5 分钟及前 20000 帧的数据。</string>
     <string name="export_description">将记录导出为 CSV 格式（逗号分隔值），以便您可以在电子表格软件（例如 Excel）中对数据进行进一步处理。</string>
-    <string name="export_description_zip">帧生成时间和其他所有数据将分别被导出到两个 CSV 文件中，然后它们会被打包为一个 ZIP 文件。</string>
-    <string name="export_the_file_to">导出文件到</string>
+    <string name="export_description_zip">每条记录的帧生成时间和其他所有数据将分别被导出到两个 CSV 文件中。最后，所有的 CSV 文件会被打包为一个 ZIP 文件。</string>
+    <plurals name="export_records_to">
+        <item quantity="other">导出 %d 条记录到</item>
+    </plurals>
     <string name="export_device_storage">设备存储</string>
     <string name="export_device_storage_description">%s 文件夹</string>
     <string name="export_other_locations">其他位置</string>

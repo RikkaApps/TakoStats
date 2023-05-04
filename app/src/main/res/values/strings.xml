@@ -125,8 +125,11 @@
     <string name="export">Export</string>
     <string name="export_not_purchased">Without purchasing, you can only export the data of the first 5 minutes and the first 20,000 frames.</string>
     <string name="export_description">Export the record in CSV format (comma-separated values), so that you can further process of data in spreadsheet software such as Excel.</string>
-    <string name="export_description_zip">Frametime and all other data will be exported into two separate CSV files, then they will be packaged as a ZIP file.</string>
-    <string name="export_the_file_to">Export the file to</string>
+    <string name="export_description_zip">Frametime and all other data will be exported into two separate CSV files for each record. Finally, all CSV files will be packaged into a ZIP file.</string>
+    <plurals name="export_records_to">
+        <item quantity="one">Export %d record to</item>
+        <item quantity="other">Export %d records to</item>
+    </plurals>
     <string name="export_device_storage">Device storage</string>
     <string name="export_device_storage_description">%s folder</string>
     <string name="export_other_locations">Other locations</string>

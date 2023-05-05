@@ -132,4 +132,11 @@
     <plurals name="export_records_to">
         <item quantity="other">%d 個の記録をエクスポート</item>
     </plurals>
+    <string name="export_has_been_saved_to">ファイルを %s に保存しました。</string>
+    <string name="export_error_title">何か問題が起きました</string>
+    <string name="export_progress_please_wait">お待ちください</string>
+    <string name="export_progress">%1$d/%2$d</string>
+    <plurals name="exporting_x_records">
+        <item quantity="other">%d 個の記録をエクスポート中</item>
+    </plurals>
 </resources>

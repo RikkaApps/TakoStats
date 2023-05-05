@@ -90,6 +90,7 @@
     <string name="customize_overlay_hide_from_screen_captures_summary">从屏幕截图和屏幕录像中隐藏叠加层</string>
     <string name="this_feature_is_not_supported_by_your_device">您的设备不支持本功能</string>
     <string name="this_feature_is_not_supported_under_compat_mode">兼容模式下不支持此功能</string>
+    <string name="this_feature_requires_android_version">此功能需要 Android %1$s，您的设备运行 Android %2$s</string>
     <string name="customize_overlay_general">通用</string>
     <string name="customize_overlay_current">电流</string>
     <string name="customize_overlay_current_summary">电池放电电流\n充电时不可用</string>
@@ -136,4 +137,7 @@
     <string name="export_progress_please_wait">请等待</string>
     <string name="export_error_title">出现了错误</string>
     <string name="export_has_been_saved_to">文件已经被保存到 %s。</string>
+    <string name="customize_overlay_hide_from_lock_screen">不要在锁定屏幕上显示</string>
+    <string name="customize_overlay_hide_from_lock_screen_summary">从锁定屏幕上隐藏叠加层</string>
+    <string name="customize_overlay_hide_from_lock_screen_summary_compatibility_mode">兼容模式叠加层永远不显示在锁定屏幕上</string>
 </resources>

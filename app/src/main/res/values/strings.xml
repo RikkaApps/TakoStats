@@ -142,7 +142,7 @@
         <item quantity="one">Exporting %1$d of %2$d record</item>
         <item quantity="other">Exporting %1$d of %2$d records</item>
     </plurals>
-    <string name="export_progress">%1$d/%2$d</string>
+    <string name="export_sub_progress">%1$d/%2$d</string>
     <string name="export_progress_please_wait">Please wait</string>
     <string name="export_error_title">Something went wrong</string>
     <string name="export_has_been_saved_to">The file has been saved to %s.</string>

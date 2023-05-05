@@ -126,5 +126,14 @@
     <string name="export_device_storage_description">%s 文件夹</string>
     <string name="export_other_locations">其他位置</string>
     <string name="export_other_locations_description">从本设备或其他任意支持 SAF（存储访问框架）的应用（例如 Google Drive，OneDrive 等）中任选一个位置</string>
-
+    <plurals name="exporting_x_records">
+        <item quantity="other">正在导出 %d 条记录</item>
+    </plurals>
+    <plurals name="export_progress">
+        <item quantity="other">正在导出 %2$d 条记录中的第 %1$d 条</item>
+    </plurals>
+    <string name="export_progress">%1$d/%2$d</string>
+    <string name="export_progress_please_wait">请等待</string>
+    <string name="export_error_title">出现了错误</string>
+    <string name="export_has_been_saved_to">文件已经被保存到 %s。</string>
 </resources>

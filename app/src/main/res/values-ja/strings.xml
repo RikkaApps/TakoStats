@@ -139,4 +139,5 @@
     <plurals name="exporting_x_records">
         <item quantity="other">%d 個の記録をエクスポート中</item>
     </plurals>
+    <string name="export_sub_progress">%1$d/%2$d</string>
 </resources>

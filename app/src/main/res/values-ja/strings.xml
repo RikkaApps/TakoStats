@@ -139,4 +139,11 @@
         <item quantity="other">%d 個の記録をエクスポート中</item>
     </plurals>
     <string name="export_sub_progress">%1$d/%2$d</string>
+    <plurals name="export_progress">
+        <item quantity="other">%1$d / %2$d の記録をエクスポート中</item>
+    </plurals>
+    <string name="this_feature_requires_android_version">この機能には Android %1$s が必要です。あなたのデバイスは Android %2$s です</string>
+    <string name="customize_overlay_hide_from_lock_screen_summary_compatibility_mode">互換モードのオーバーレイは設定にかかわらずロック画面に表示されません</string>
+    <string name="customize_overlay_hide_from_lock_screen_summary">オーバーレイをロック画面に表示しないようにします</string>
+    <string name="customize_overlay_hide_from_lock_screen">ロック画面に表示しない</string>
 </resources>

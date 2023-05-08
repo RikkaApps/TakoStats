@@ -25,8 +25,10 @@
     <string name="avg_frame_time">平均フレーム時間</string>
     <string name="max_frame_time">最大フレーム時間</string>
     <string name="frame_time">フレーム時間</string>
-    <string name="chart_frame_time_marker">%1$.2f ms\nat frame %2$d</string>
-    <string name="chart_marker">%1$s\nat %2$s</string>
+    <string name="chart_frame_time_marker">%1$.2f ms
+\nフレーム: %2$d</string>
+    <string name="chart_marker">%1$s
+\n%2$s</string>
     <string name="percentile_99_fps">99 %ile 最小 FPS</string>
     <string name="percentile_95_fps">95 %ile 最小 FPS</string>
     <string name="delete">削除</string>
@@ -59,7 +61,7 @@
     <string name="customize_overlay_background_color">背景色</string>
     <string name="customize_overlay_download_speed">ダウンロード速度</string>
     <string name="customize_overlay_upload_speed">アップロード速度</string>
-    <string name="duration_format">%1$dm %2$ds</string>
+    <string name="duration_format">%1$d分 %2$d秒</string>
     <string name="dialog_purchase_not_verified_message">不正防止のため、購入には定期的な認証が必要です。\n\n認証に成功しないまま一定期間が経過するとアプリが動作しなくなりますので、ネットワークへのアクセスを遮断しないようご注意ください。</string>
     <string name="dialog_purchase_not_verified_button_retry">再試行</string>
     <string name="purchase_description">本アプリの開発には多くの労力を費やしており、気に入っていただけた場合は購入をご検討ください。\n\n未購入時はオーバーレイを5分だけ利用できます。5分経過後に再度オーバーレイを利用するには、手動でサービスを再起動する必要があります。</string>
@@ -138,7 +140,7 @@
     <plurals name="exporting_x_records">
         <item quantity="other">%d 個の記録をエクスポート中</item>
     </plurals>
-    <string name="export_sub_progress">%1$d/%2$d</string>
+    <string name="export_sub_progress">%1$d / %2$d</string>
     <plurals name="export_progress">
         <item quantity="other">%1$d / %2$d の記録をエクスポート中</item>
     </plurals>

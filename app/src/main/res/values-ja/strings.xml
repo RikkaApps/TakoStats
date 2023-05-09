@@ -148,4 +148,6 @@
     <string name="customize_overlay_hide_from_lock_screen_summary_compatibility_mode">互換モードのオーバーレイは設定にかかわらずロック画面に表示されません</string>
     <string name="customize_overlay_hide_from_lock_screen_summary">オーバーレイをロック画面に表示しないようにします</string>
     <string name="customize_overlay_hide_from_lock_screen">ロック画面に表示しない</string>
+    <string name="customize_overlay_memory_usage">メモリ使用率 (デバイス全体)</string>
+    <string name="customize_overlay_memory_usage_percentage">メモリ使用率パーセント (デバイス全体)</string>
 </resources>

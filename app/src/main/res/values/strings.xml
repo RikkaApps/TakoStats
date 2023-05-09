@@ -70,6 +70,8 @@
     <string name="customize_overlay_power_summary">Calculated from battery current and voltage</string>
     <string name="customize_overlay_frame_power">Power consumption per frame</string>
     <string name="customize_overlay_frame_power_summary">Calculated from power consumption and FPS</string>
+    <string name="customize_overlay_memory_usage_percentage">Memory usage percentage (entire device)</string>
+    <string name="customize_overlay_memory_usage">Memory usage (entire device)</string>
     <string name="customize_overlay_hide_from_screen_captures">Don\'t show on screenshots</string>
     <string name="customize_overlay_hide_from_screen_captures_summary">Hide overlay from screenshots and screen recordings</string>
     <string name="customize_overlay_hide_from_lock_screen">Don\'t show on lockscreen</string>

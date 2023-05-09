@@ -140,4 +140,6 @@
     <string name="customize_overlay_hide_from_lock_screen">不要在锁定屏幕上显示</string>
     <string name="customize_overlay_hide_from_lock_screen_summary">从锁定屏幕上隐藏叠加层</string>
     <string name="customize_overlay_hide_from_lock_screen_summary_compatibility_mode">兼容模式叠加层永远不显示在锁定屏幕上</string>
+    <string name="customize_overlay_memory_usage_percentage">内存使用百分比（整个设备）</string>
+    <string name="customize_overlay_memory_usage">内存使用量（整个设备）</string>
 </resources>

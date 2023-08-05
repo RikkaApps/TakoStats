@@ -46,8 +46,13 @@
     <string name="customize_overlay_offset_y">纵向偏移</string>
     <string name="customize_overlay_position">位置</string>
     <string name="customize_overlay_position_top_left">左上</string>
+    <string name="customize_overlay_position_top_center">中上</string>
     <string name="customize_overlay_position_top_right">右上</string>
+    <string name="customize_overlay_position_center_left">左中</string>
+    <string name="customize_overlay_position_center">中心</string>
+    <string name="customize_overlay_position_center_right">右中</string>
     <string name="customize_overlay_position_bottom_left">左下</string>
+    <string name="customize_overlay_position_bottom_center">中下</string>
     <string name="customize_overlay_position_bottom_right">右下</string>
     <string name="customize_overlay_cpu_temperature">CPU 温度</string>
     <string name="customize_overlay_gpu_temperature">GPU 温度</string>

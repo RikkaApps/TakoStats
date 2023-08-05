@@ -50,8 +50,13 @@
     <string name="customize_overlay_offset_y">Vertical offset</string>
     <string name="customize_overlay_position">Position</string>
     <string name="customize_overlay_position_top_left">Upper left</string>
+    <string name="customize_overlay_position_top_center">Upper center</string>
     <string name="customize_overlay_position_top_right">Upper right</string>
+    <string name="customize_overlay_position_center_left">Center left</string>
+    <string name="customize_overlay_position_center">Center</string>
+    <string name="customize_overlay_position_center_right">Center right</string>
     <string name="customize_overlay_position_bottom_left">Bottom left</string>
+    <string name="customize_overlay_position_bottom_center">Bottom center</string>
     <string name="customize_overlay_position_bottom_right">Bottom right</string>
     <string name="customize_overlay_cpu_temperature">CPU temperature</string>
     <string name="customize_overlay_gpu_temperature">GPU temperature</string>

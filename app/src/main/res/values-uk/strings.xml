@@ -1,2 +1,169 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="customize_overlay_memory_usage">Використання пам\'яті(весь пристрій)</string>
+    <string name="customize_overlay_memory_usage_percentage">Відсоток використання пам\'яті (весь пристрій)</string>
+    <string name="export_has_been_saved_to">Файл було збережено до %s.</string>
+    <string name="export_error_title">Щось пішло не так</string>
+    <string name="export_progress_please_wait">Зачекайте</string>
+    <string name="export_sub_progress">%1$d/%2$d</string>
+    <plurals name="export_progress">
+        <item quantity="one">Експортування %1$d з %2$d запису</item>
+        <item quantity="few">Експортування %1$d з %2$d записів</item>
+        <item quantity="many">Експортування %1$d з %2$d записів</item>
+        <item quantity="other">Експортування %1$d з %2$d записів</item>
+    </plurals>
+    <plurals name="exporting_x_records">
+        <item quantity="one">Експортування %d запису</item>
+        <item quantity="few">Експортування %d записів</item>
+        <item quantity="many">Експортування %d записів</item>
+        <item quantity="other">Експортування %d записів</item>
+    </plurals>
+    <string name="export_other_locations_description">Виберіть теку на цьому пристрої або будь-який застосунок, який підтримує SAF (Storage Access Framework), наприклад Google Drive, OneDrive тощо.</string>
+    <string name="export_other_locations">Інші розташування</string>
+    <string name="export_device_storage_description">%s тека</string>
+    <string name="export_device_storage">Пам\'ять пристрою</string>
+    <plurals name="export_records_to">
+        <item quantity="one">Експортувати %d запис до</item>
+        <item quantity="few">Експортувати %d записи до</item>
+        <item quantity="many">Експортувати %d записів до</item>
+        <item quantity="other">Експортувати %d записів до</item>
+    </plurals>
+    <string name="export_description_zip">Час кадру та всі інші дані будуть експортовані у два окремі файли CSV для кожного запису. Нарешті, всі CSV-файли будуть упаковані у файл ZIP.</string>
+    <string name="export_description">Експортуйте запис у форматі CSV (значення, розділені комами), щоб надалі обробляти дані в програмному забезпеченні для роботи з електронними таблицями, наприклад Excel.</string>
+    <string name="export_not_purchased">Без купівлі можна експортувати лише дані перших 5 хвилин і перших 20 000 кадрів.</string>
+    <string name="export">Експорт</string>
+    <string name="compatibility_mode_overlay_button_my_device_has_no_problem">Немає проблем на моєму пристрої</string>
+    <string name="compatibility_mode_overlay_description">Якщо ви виявили будь-які проблеми, включаючи, але не обмежуючись «оверлей не відображається», «служба зупиняється відразу після запуску», це може бути тому, що ваш пристрій зробив занадто багато змін в системі Android, будь ласка, ввімкніть режим сумісності оверлею і спробуйте ще раз.</string>
+    <string name="thank_you_for_participating_in_open_beta">Дякуємо за участь у публічній бета версії (знижка була включена до вартості покупки)</string>
+    <string name="temperature_unit_fahrenheit">Фаренгейт (℉)</string>
+    <string name="temperature_unit_celsius">Цельсій (℃)</string>
+    <string name="settings_temperature_unit">Одиниці вимірювання температури</string>
+    <string name="settings">Налаштування</string>
+    <string name="overlay_trial_ended">Пробний період завершився.
+\nРозгляньте можливість покупки або перезапустіть оверлей.</string>
+    <string name="using_unsupported_os_description">Версія Android, яку ви використовуєте, ще не підтримується. Якщо застосунок не працює належним чином, спробуйте оновити його до останньої версії.</string>
+    <string name="using_preview_os_description">Ви використовуєте попередню або бета версію Android для розробників. Якщо застосунок не працює належним чином, спробуйте оновити його до останньої версії.</string>
+    <string name="avg_power_frame_consumption">Середнє енергоспоживання кадру</string>
+    <string name="avg_power_consumption">Середнє енергоспоживання</string>
+    <string name="ignore_overlay_qs_tile_message">Ви можете додати його вручну в розділі «Швидкі налаштування».</string>
+    <string name="ignore_overlay_qs_tile_title">Більше не запитувати про плитку «Швидкі налаштування»\?</string>
+    <string name="overlay_qs_tile_add">Додати плитку «Швидкі налаштування»</string>
+    <string name="overlay_qs_tile_description">Ви можете використовувати плитку «Швидкі налаштування», щоб зручно вмикати/вимикати оверлей.</string>
+    <string name="select_inverse">Вибрати зворотне</string>
+    <string name="select_all">Вибрати все</string>
+    <string name="dialog_delete_selected_records_message">Дійсно видалити вибрані записи\? Операцію неможливо скасувати.</string>
+    <string name="dialog_delete_selected_records_title">Видалити вибрані записи\?</string>
+    <plurals name="items_selected">
+        <item quantity="one">%d елемент вибрано</item>
+        <item quantity="few">%d елементи вибрано</item>
+        <item quantity="many">%d елементів вибрано</item>
+        <item quantity="other">%d елементів вибрано</item>
+    </plurals>
+    <string name="ignore_compat_mode_overlay_message">Ви все ще можете ввімкнути режим сумісності з меню 3 крапки.</string>
+    <string name="ignore_compat_mode_overlay_title">Більше не запитувати про режим сумісності\?</string>
+    <string name="compat_mode_overlay_requires_notification">Надайте дозвіл на сповіщення.</string>
+    <string name="compat_mode_overlay_requires_display_over_other_apps">Надайте дозвіл \"Відображати над іншими застосунками\".</string>
+    <string name="compat_mode_overlay_description_limits_3">Оптимізацію батареї потрібно вимкнути для цього застосунку.</string>
+    <string name="compat_mode_overlay_description_limits_2">Неможливо відображати деякі застосунки (наприклад, Налаштування системи Android).</string>
+    <string name="compat_mode_overlay_description_limits_1">Деякі застосунки (наприклад, встановлювач пакетів системи Android) відмовляються реагувати на дії користувачів, якщо над ним відображаються застосунки. Ви можете тимчасово приховати оверлей через сповіщення або плитку «Швидкі налаштування».</string>
+    <string name="compat_mode_overlay_description_limits">У режимі сумісності, оскільки оверлей показаний як застосунк, є деякі обмеження.</string>
+    <string name="compat_mode_overlay_description">Режим сумісності слід використовувати, лише якщо оверлей не може відображатися на пристрої.</string>
+    <string name="compat_mode_overlay">Режим сумісності оверлею</string>
+    <string name="notification_overlay_compat_mode_show">Показати оверлей</string>
+    <string name="notification_overlay_compat_mode_hide">Приховати оверлей</string>
+    <string name="notification_overlay_compat_mode_title">Відображення оверлею в режимі сумісності</string>
+    <string name="dont_show_again">Не показувати знову</string>
+    <string name="enable_compat_mode">Ввімкнути режим сумісності</string>
+    <string name="compat_mode">Режим сумісності</string>
+    <string name="record_not_purchased">Без купівлі можна переглядати лише дані перших 5 хвилин і перших 20 000 кадрів.</string>
+    <string name="about">Про застосунок</string>
+    <string name="purchase">Купити</string>
+    <string name="purchase_description">Ми доклали багато зусиль для розробки цього застосунку, будь ласка, розгляньте можливість придбання, якщо вам він подобається.
+\n
+\nЯкщо ви не придбали, то ви можете використовувати його протягом 5 хвилин. Через 5 хвилин, щоб знову скористатися оверлеєм, потрібно перезапустити сервіс вручну.</string>
+    <string name="dialog_purchase_not_verified_button_retry">Повторити</string>
+    <string name="dialog_purchase_not_verified_message">Щоб уникнути шахрайства, покупка вимагає регулярної перевірки. Не блокуйте застосунку доступ до мережі.
+\n
+\nЗастосунок перестане працювати через певний проміжок часу без успішної верифікації.</string>
+    <string name="duration_format">%1$dхв %2$dс</string>
+    <string name="this_feature_requires_android_version">Ця функція вимагає Android %1$s, ваші пристрої працюють під керуванням Android %2$s</string>
+    <string name="this_feature_is_not_supported_under_compat_mode">Ця функція не підтримується в режимі сумісності</string>
+    <string name="this_feature_is_not_supported_by_your_device">Ця функція не підтримується вашим пристроєм</string>
+    <string name="customize_overlay_hide_from_lock_screen_summary_compatibility_mode">Режим сумісності оверлею більше не відображається на екрані блокування</string>
+    <string name="customize_overlay_hide_from_lock_screen_summary">Приховати оверлей на екрані блокування</string>
+    <string name="customize_overlay_hide_from_lock_screen">Не показувати на екрані блокування</string>
+    <string name="customize_overlay_hide_from_screen_captures_summary">Приховати оверлей на знімках та записах екрана</string>
+    <string name="customize_overlay_hide_from_screen_captures">Не показувати на знімках</string>
+    <string name="customize_overlay_frame_power_summary">Розраховано на основі енергоспоживання та FPS</string>
+    <string name="customize_overlay_frame_power">Енергоспоживання на кадр</string>
+    <string name="customize_overlay_power_summary">Розраховано від струму та напруги батареї</string>
+    <string name="customize_overlay_power">Енергоспоживання</string>
+    <string name="customize_overlay_voltage_summary">Напруга акумулятора
+\nНедоступа під час заряджання</string>
+    <string name="customize_overlay_voltage">Напруга</string>
+    <string name="customize_overlay_current_summary">Струм розряду акумулятора
+\nНедоступний під час заряджання</string>
+    <string name="customize_overlay_current">Поточний</string>
+    <string name="customize_overlay_upload_speed">Швидкість вивантаження</string>
+    <string name="customize_overlay_download_speed">Швидкість завантаження</string>
+    <string name="customize_overlay_background_color">Колір тло</string>
+    <string name="customize_overlay_show_background">Тло</string>
+    <string name="customize_overlay_temperatures_may_not_support_all_devices">Доступність і точність температурних даних залежить від пристрою.</string>
+    <string name="customize_overlay_skin_temperature">Температура корпусу пристрою</string>
+    <string name="customize_overlay_battery_temperature">Температура батареї</string>
+    <string name="customize_overlay_gpu_temperature">Температура GPU</string>
+    <string name="customize_overlay_cpu_temperature">Температура CPU</string>
+    <string name="customize_overlay_position_bottom_right">Внизу праворуч</string>
+    <string name="customize_overlay_position_bottom_left">Внизу ліворуч</string>
+    <string name="customize_overlay_position_top_right">Вгорі праворуч</string>
+    <string name="customize_overlay_position_top_left">Вгорі ліворуч</string>
+    <string name="customize_overlay_position">Позиція</string>
+    <string name="customize_overlay_offset_y">Вертикальне зміщення</string>
+    <string name="customize_overlay_offset_x">Горизонтальне зміщення</string>
+    <string name="customize_overlay_text_color">Колір тексту</string>
+    <string name="customize_overlay_text_size">Розмір тексту</string>
+    <string name="customize_overlay_cpu_frequency">Частота CPU</string>
+    <string name="customize_overlay_cpu_usage">Завантаження CPU</string>
+    <string name="customize_overlay_layer_name_summary">Назва шару, який використовується для захоплення FPS</string>
+    <string name="customize_overlay_layer_name">Назва шару</string>
+    <string name="customize_overlay_fps_summary">Кадри в секунду запущеного застосунку</string>
+    <string name="customize_overlay_style">Стиль</string>
+    <string name="customize_overlay_data">Дані</string>
+    <string name="customize_overlay_general">Загальні</string>
+    <string name="customize_overlay">Налаштувати оверлей</string>
+    <string name="no_records">Немає записів</string>
+    <string name="dialog_delete_record_message">Справді видалити цей запис\? Операцію неможливо скасувати.</string>
+    <string name="dialog_delete_record_title">Видалити запис\?</string>
+    <string name="delete">Видалити</string>
+    <string name="percentile_95_fps">Мінімальний FPS 95%ile</string>
+    <string name="percentile_99_fps">Мінімальний FPS 99 %ile</string>
+    <string name="chart_marker">%1$s
+\nв %2$s</string>
+    <string name="chart_frame_time_marker">%1$.2f мс
+\nКадр: %2$d</string>
+    <string name="frame_time">Час кадру</string>
+    <string name="max_frame_time">Максимальний час кадру</string>
+    <string name="avg_frame_time">Середній час кадру</string>
+    <string name="avg_fps">Середній FPS</string>
+    <string name="total_frames">Всього кадрів</string>
+    <string name="shizuku_is_not_installed_or_running">Shizuku не встановлено або не працює.</string>
+    <string name="requires_shizuku_button_download">Завантажити %s</string>
+    <string name="requires_shizuku_description_rooted">Для рутованого пристрою замість нього можна використовувати Sui, модуль Magisk з відкритим вихідним кодом.</string>
+    <string name="requires_shizuku_description">Цей застосунок вимагає Shizuku для роботи. Shizuku — проєкт з відкритим кодом.</string>
+    <string name="game_app">Гра</string>
+    <string name="view_record">Переглянути запис</string>
+    <string name="records_button_choose_app">Вибрати застосунки для запису</string>
+    <string name="records_button_view">Переглянути записи</string>
+    <string name="records_description">Записувати інформацію про продуктивність для вибраних застосунків.</string>
+    <string name="records">Записи</string>
+    <string name="records_button_customize">Налаштувати</string>
+    <string name="overlay_description">Відображення частоти кадрів в режимі реального часу та іншої інформації на екрані.</string>
+    <string name="overlay">Оверлей</string>
+    <string name="service_version">Версія %d</string>
+    <string name="service_is_upgrading">Сервіс оновлюється</string>
+    <string name="service_is_not_running">Сервіс не запущений</string>
+    <string name="service_is_running">Сервіс запущений</string>
+    <string name="stop">Стоп</string>
+    <string name="start">Старт</string>
+    <string name="translators">kefir2105</string>
+</resources>

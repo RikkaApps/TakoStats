@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="translators">LekhanguD</string>
+    <string name="translators">The Primal Pea, LekhanguD</string>
     <string name="ignore_compat_mode_overlay_message">Bạn có thể kích hoạt chế độ tương thích từ 3-chấm menu.</string>
     <string name="percentile_99_fps">FPS thấp nhất (99%)</string>
     <string name="customize_overlay_text_color">Màu phông chữ</string>
     <string name="customize_overlay_text_size">Cỡ văn bản</string>
-    <string name="compat_mode_overlay_description_limits_1">Một số ứng dụng (e.g, Android system\'s Package Installer) sẽ không phản ứng hành động của người dùng nếu có lớp phủ hiển thị trên đó. Bạn có thể tạm thời ẩn lớp phủ thông qua thanh thông báo hoặc cài đặt nhanh.</string>
+    <string name="compat_mode_overlay_description_limits_1">Một số ứng dụng (v.d, Trình cài đặt Gói của Hệ thống Android) sẽ không phản ứng hành động của người dùng nếu có lớp phủ hiển thị trên đó. Bạn có thể tạm thời ẩn lớp phủ thông qua thanh thông báo hoặc ô Cài đặt Nhanh.</string>
     <string name="duration_format">%1$dm %2$ds</string>
     <string name="customize_overlay_data">Dữ liệu</string>
     <string name="delete">Xóa</string>
@@ -35,7 +35,7 @@
     <string name="compat_mode_overlay_requires_notification">Hãy cấp quyền thông báo.</string>
     <string name="compat_mode_overlay_requires_display_over_other_apps">Hãy cấp quyền \"Hiển thị trên các ứng dụng khác\".</string>
     <string name="compat_mode_overlay_description_limits_3">\'Tối ưu hóa pin\' cần được vô hiệu hóa cho ứng dụng này.</string>
-    <string name="compat_mode_overlay_description_limits_2">Không thể hiển thị trên một số ứng dụng (e.g., Android system\'s Settings).</string>
+    <string name="compat_mode_overlay_description_limits_2">Không thể hiển thị trên một số ứng dụng (v.d., Cài đặt của Hệ thống Android).</string>
     <string name="compat_mode_overlay_description_limits">Trong chế độ tương thích, khi ứng dụng hiển thị lớp phủ, sẽ có một số giới hạn.</string>
     <string name="compat_mode_overlay_description">Chế độ tương thích chỉ nên sử dụng nếu lớp phủ không thể hiển thị trên thiết bị của bạn.</string>
     <string name="compat_mode_overlay">Lớp phủ chế độ tương thích</string>
@@ -90,7 +90,7 @@
     <string name="customize_overlay_layer_name_summary">Tên của layer được sử dụng để quay FPS</string>
     <string name="customize_overlay_layer_name">Tên Layer</string>
     <string name="customize_overlay_fps_summary">Khung hình/giây của ứng dụng nền</string>
-    <string name="customize_overlay_style">Style</string>
+    <string name="customize_overlay_style">Phong cách</string>
     <string name="customize_overlay_general">Tổng quát</string>
     <string name="customize_overlay">Tùy chỉnh lớp phủ</string>
     <string name="no_records">Không bản ghi</string>
@@ -116,4 +116,12 @@
     <string name="service_is_running">Đang hoạt động</string>
     <string name="stop">Dừng lại</string>
     <string name="start">Bắt đầu</string>
+    <string name="using_unsupported_os_description">Phiên bản Android bạn đang sử dụng chưa được hỗ trợ. Nếu ứng dụng không hoạt động bình thường, vui lòng thử cập nhật lên phiên bản mới nhất.</string>
+    <string name="using_preview_os_description">Bạn đang sử dụng bản xem trước dành cho nhà phát triển hoặc phiên bản beta của Android. Nếu ứng dụng không hoạt động bình thường, vui lòng thử cập nhật lên phiên bản mới nhất.</string>
+    <string name="this_feature_requires_android_version">Tính năng này yêu cầu Android %1$s, thiết bị của bạn chạy Android %2$s</string>
+    <string name="customize_overlay_hide_from_lock_screen_summary_compatibility_mode">Lớp phủ chế độ tương thích luôn không hiển thị trên màn hình khóa</string>
+    <string name="customize_overlay_hide_from_lock_screen_summary">Ẩn lớp phủ khỏi màn hình khóa</string>
+    <string name="customize_overlay_hide_from_lock_screen">Không hiển trên màn hình khóa</string>
+    <string name="customize_overlay_memory_usage_percentage">Phần trăm mức sử dụng bộ nhớ (toàn bộ thiết bị)</string>
+    <string name="customize_overlay_memory_usage">Mức sử dụng bộ nhớ (toàn bộ thiết bị)</string>
 </resources>

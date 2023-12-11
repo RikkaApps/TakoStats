@@ -8,7 +8,7 @@
     <string name="dialog_delete_record_title">Hapus rekaman\?</string>
     <string name="delete">Hapus</string>
     <string name="shizuku_is_not_installed_or_running">Shizuku tidak terinstal atau servis tidak berjalan.</string>
-    <string name="requires_shizuku_description_rooted">Untuk perangkat yang sudah di root, anda dapat menggunakan Sui, sebuah modul terbuka Magisk.</string>
+    <string name="requires_shizuku_description_rooted">Untuk perangkat yang di-rooting, Anda dapat menggunakan Sui, modul Magisk open source.</string>
     <string name="requires_shizuku_description">Aplikasi ini membutuhkan aplikasi Shizuku agar bisa bekerja dengan baik. Shizuku adalah projek aplikasi tebuka.</string>
     <string name="game_app">Aplikasi game</string>
     <string name="view_record">Lihat rekaman</string>

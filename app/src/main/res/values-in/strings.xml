@@ -136,7 +136,7 @@
     <string name="customize_overlay_show_background">Latar belakang</string>
     <string name="customize_overlay_temperatures_may_not_support_all_devices">Ketersediaan dan keakuratan data suhu bervariasi menurut perangkat.</string>
     <string name="customize_overlay_skin_temperature">Suhu kulit perangkat</string>
-    <string name="customize_overlay_battery_temperature">Suhu baterai</string>
+    <string name="customize_overlay_battery_temperature">Suhu Baterai</string>
     <string name="customize_overlay_gpu_temperature">suhu GPU</string>
     <string name="customize_overlay_cpu_temperature">suhu CPU</string>
     <string name="customize_overlay_position_bottom_right">Kanan bawah</string>

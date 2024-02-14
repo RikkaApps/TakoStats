@@ -150,4 +150,9 @@
     <string name="customize_overlay_hide_from_lock_screen">ロック画面に表示しない</string>
     <string name="customize_overlay_memory_usage">メモリ使用率 (デバイス全体)</string>
     <string name="customize_overlay_memory_usage_percentage">メモリ使用率パーセント (デバイス全体)</string>
+    <string name="customize_overlay_position_center_left">中央左</string>
+    <string name="customize_overlay_position_center">中央</string>
+    <string name="customize_overlay_position_center_right">中央右</string>
+    <string name="customize_overlay_position_bottom_center">中央下</string>
+    <string name="customize_overlay_position_top_center">中央上</string>
 </resources>

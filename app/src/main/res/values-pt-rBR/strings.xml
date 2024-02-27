@@ -1,2 +1,170 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="export_has_been_saved_to">O arquivo foi salvo em %s.</string>
+    <string name="export_error_title">Algo deu errado</string>
+    <string name="export_progress_please_wait">Por favor, aguarde</string>
+    <string name="export_sub_progress">%1$d/%2$d</string>
+    <plurals name="export_progress">
+        <item quantity="one">Exportando %1$d de %2$d registro</item>
+        <item quantity="many">Exportando %1$d de %2$d registros</item>
+        <item quantity="other">Exportando %1$d de %2$d registros</item>
+    </plurals>
+    <plurals name="exporting_x_records">
+        <item quantity="one">Exportando %d registro</item>
+        <item quantity="many">Exportando %d registros</item>
+        <item quantity="other">Exportando %d registros</item>
+    </plurals>
+    <string name="export_other_locations_description">Escolha uma pasta deste dispositivo ou qualquer app que suporte SAF (Storage Access Framework), como Google Drive, OneDrive, etc.</string>
+    <string name="export_other_locations">Outros locais</string>
+    <string name="export_device_storage_description">%s pasta</string>
+    <string name="export_device_storage">Armazenamento do dispositivo</string>
+    <plurals name="export_records_to">
+        <item quantity="one">Exportar %d registro para</item>
+        <item quantity="many">Exportar %d registros para</item>
+        <item quantity="other">Exportar %d registros para</item>
+    </plurals>
+    <string name="export_description_zip">O tempo de quadro e todos os outros dados serão exportados em dois arquivos CSV separados para cada registro. Finalmente, todos os arquivos CSV serão compactados em um arquivo ZIP.</string>
+    <string name="export_description">Exporte o registro em formato CSV (valores separados por vírgula), para que você possa processar ainda mais os dados em um software de planilha como o Excel.</string>
+    <string name="export_not_purchased">Sem comprar, você só pode exportar os dados dos primeiros 5 minutos e dos primeiros 20.000 quadros.</string>
+    <string name="export">Exportar</string>
+    <string name="compatibility_mode_overlay_button_my_device_has_no_problem">Não há problema no meu dispositivo</string>
+    <string name="compatibility_mode_overlay_description">Se você encontrar algum problema, incluindo, entre outros, \"a sobreposição não é exibida\", \"o serviço para imediatamente após a inicialização\", pode ser porque seu dispositivo fez muitas modificações no sistema Android. Ative a sobreposição do modo de compatibilidade e tente novamente.</string>
+    <string name="thank_you_for_participating_in_open_beta">Obrigado por participar do beta público (um desconto foi incluído no preço de compra)</string>
+    <string name="temperature_unit_fahrenheit">Fahrenheit (℉)</string>
+    <string name="temperature_unit_celsius">Celsius (℃)</string>
+    <string name="settings_temperature_unit">Unidade de temperatura</string>
+    <string name="settings">Configurações</string>
+    <string name="overlay_trial_ended">O teste terminou.
+\nPor favor, considere comprar ou reiniciar a avaliação reiniciando o serviço.</string>
+    <string name="using_unsupported_os_description">A versão do Android que você está usando ainda não é compatível. Se o app não funcionar corretamente, tente atualizar para a versão mais recente.</string>
+    <string name="using_preview_os_description">Você está usando uma versão beta ou uma prévia do desenvolvedor do Android. Se o app não estiver funcionando corretamente, tente atualizar para a versão mais recente.</string>
+    <string name="avg_power_frame_consumption">Potência média de quadro</string>
+    <string name="avg_power_consumption">Potência média</string>
+    <string name="ignore_overlay_qs_tile_message">Você pode adicioná-lo manualmente nas Configurações rápidas.</string>
+    <string name="ignore_overlay_qs_tile_title">Não solicita mais o atalho nas Configurações rápidas\?</string>
+    <string name="overlay_qs_tile_add">Adicionar atalho nas Configurações rápidas</string>
+    <string name="overlay_qs_tile_description">Você pode usar as Configurações rápidas para ativar/desativar a sobreposição de maneira conveniente.</string>
+    <string name="select_inverse">Desmarcar tudo</string>
+    <string name="select_all">Selecionar tudo</string>
+    <string name="dialog_delete_selected_records_message">Tem certeza que deseja excluir os registros selecionados\? A operação não pode ser desfeita.</string>
+    <string name="dialog_delete_selected_records_title">Excluir registros selecionados\?</string>
+    <plurals name="items_selected">
+        <item quantity="one">%d item selecionado</item>
+        <item quantity="many">%d itens selecionados</item>
+        <item quantity="other">%d itens selecionados</item>
+    </plurals>
+    <string name="ignore_compat_mode_overlay_message">Você ainda pode ativar o modo de compatibilidade no menu de 3 pontos.</string>
+    <string name="ignore_compat_mode_overlay_title">Não solicita mais o modo de compatibilidade\?</string>
+    <string name="compat_mode_overlay_requires_notification">Por favor, conceda permissão de notificação.</string>
+    <string name="compat_mode_overlay_requires_display_over_other_apps">Por favor, conceda a permissão para \"Sobrepor a outros apps\".</string>
+    <string name="compat_mode_overlay_description_limits_3">A otimização da bateria precisa ser desativada para este app.</string>
+    <string name="compat_mode_overlay_description_limits_2">Não é possível exibir alguns apps (por exemplo, Configurações do sistema Android).</string>
+    <string name="compat_mode_overlay_description_limits_1">Alguns apps (por exemplo, o Instalador de pacotes do sistema Android) se recusam a responder às ações do usuário se houver apps exibidos nele. Você pode ocultar temporariamente a sobreposição por meio da notificação ou nas Configurações rápidas.</string>
+    <string name="compat_mode_overlay_description_limits">No modo de compatibilidade, como a sobreposição é mostrada pelo app, existem alguns limites.</string>
+    <string name="compat_mode_overlay_description">O modo de compatibilidade só deve ser usado se a sobreposição não puder ser exibida no seu dispositivo.</string>
+    <string name="compat_mode_overlay">Sobreposição do modo de compatibilidade</string>
+    <string name="notification_overlay_compat_mode_show">Mostrar sobreposição</string>
+    <string name="notification_overlay_compat_mode_hide">Ocultar sobreposição</string>
+    <string name="notification_overlay_compat_mode_title">Exibindo sobreposição no modo de compatibilidade</string>
+    <string name="dont_show_again">Não mostrar novamente</string>
+    <string name="enable_compat_mode">Ativar modo de compatibilidade</string>
+    <string name="compat_mode">Modo de compatibilidade</string>
+    <string name="record_not_purchased">Sem comprar, você só pode visualizar os dados dos primeiros 5 minutos e dos primeiros 20.000 quadros.</string>
+    <string name="about">Sobre</string>
+    <string name="purchase">Comprar</string>
+    <string name="purchase_description">Nós nos esforçamos muito para desenvolver este app. Considere a compra se você gostar.
+\n
+\nQuando não adquirido, você pode usar a sobreposição por 5 minutos por vez. Após 5 minutos, para usar a sobreposição novamente, é necessário reiniciar o serviço manualmente.</string>
+    <string name="dialog_purchase_not_verified_button_retry">Tentar novamente</string>
+    <string name="dialog_purchase_not_verified_message">Para evitar fraudes, a compra requer uma verificação regular. Por favor, não bloqueie o acesso do app à rede.
+\n
+\nO app irá parar de funcionar após um período de tempo sem a verificação bem-sucedida.</string>
+    <string name="duration_format">%1$dm %2$ds</string>
+    <string name="this_feature_requires_android_version">Este recurso requer Android %1$s, seu dispositivo roda Android %2$s.</string>
+    <string name="this_feature_is_not_supported_under_compat_mode">Este recurso não é suportado no modo de compatibilidade</string>
+    <string name="this_feature_is_not_supported_by_your_device">Este recurso não é compatível com seu dispositivo</string>
+    <string name="customize_overlay_hide_from_lock_screen_summary_compatibility_mode">A sobreposição do modo de compatibilidade nem sempre aparece na tela de bloqueio</string>
+    <string name="customize_overlay_hide_from_screen_captures_summary">Oculte a sobreposição de capturas de tela e gravações de tela</string>
+    <string name="customize_overlay_hide_from_lock_screen_summary">Oculte a sobreposição da tela de bloqueio</string>
+    <string name="customize_overlay_hide_from_lock_screen">Não mostrar na tela de bloqueio</string>
+    <string name="customize_overlay_hide_from_screen_captures">Não mostrar nas capturas de tela</string>
+    <string name="customize_overlay_memory_usage">Uso da memória (dispositivo inteiro)</string>
+    <string name="customize_overlay_memory_usage_percentage">Porcentagem de uso da memória (dispositivo inteiro)</string>
+    <string name="customize_overlay_frame_power_summary">Calculado a partir do consumo de energia e FPS</string>
+    <string name="customize_overlay_frame_power">Consumo de energia por quadro</string>
+    <string name="customize_overlay_power_summary">Calculado a partir da corrente e voltagem da bateria</string>
+    <string name="customize_overlay_power">Consumo de energia</string>
+    <string name="customize_overlay_voltage_summary">Voltagem da bateria
+\nIndisponível durante o carregamento</string>
+    <string name="customize_overlay_voltage">Voltagem</string>
+    <string name="customize_overlay_current_summary">Corrente de descarga da bateria
+\nIndisponível durante o carregamento</string>
+    <string name="customize_overlay_current">Corrente</string>
+    <string name="customize_overlay_upload_speed">Velocidade de upload</string>
+    <string name="customize_overlay_download_speed">Velocidade de download</string>
+    <string name="customize_overlay_background_color">Cor de fundo</string>
+    <string name="customize_overlay_show_background">Fundo</string>
+    <string name="customize_overlay_temperatures_may_not_support_all_devices">A disponibilidade e a precisão dos dados de temperatura variam de acordo com o dispositivo.</string>
+    <string name="customize_overlay_skin_temperature">Temperatura da pele do dispositivo</string>
+    <string name="customize_overlay_battery_temperature">Temperatura da bateria</string>
+    <string name="customize_overlay_gpu_temperature">Temperatura da GPU</string>
+    <string name="customize_overlay_cpu_temperature">Temperatura da CPU</string>
+    <string name="customize_overlay_position_bottom_left">Canto inferior esquerdo</string>
+    <string name="customize_overlay_position_bottom_right">Canto inferior direito</string>
+    <string name="customize_overlay_position_bottom_center">Centro inferior</string>
+    <string name="customize_overlay_position_center_right">Centro-direita</string>
+    <string name="customize_overlay_position_center">Centro</string>
+    <string name="customize_overlay_position_center_left">Centro-esquerda</string>
+    <string name="customize_overlay_position_top_right">Canto superior direito</string>
+    <string name="customize_overlay_position_top_center">Centro superior</string>
+    <string name="customize_overlay_position_top_left">Canto superior esquerdo</string>
+    <string name="customize_overlay_position">Posição</string>
+    <string name="customize_overlay_offset_y">Deslocamento vertical</string>
+    <string name="customize_overlay_offset_x">Deslocamento horizontal</string>
+    <string name="customize_overlay_text_color">Cor do texto</string>
+    <string name="customize_overlay_text_size">Tamanho do texto</string>
+    <string name="percentile_95_fps">95%i de FPS mínimo</string>
+    <string name="percentile_99_fps">99%i de FPS mínimo</string>
+    <string name="customize_overlay_cpu_frequency">Frequência da CPU</string>
+    <string name="customize_overlay_cpu_usage">Utilização da CPU</string>
+    <string name="customize_overlay_layer_name_summary">Nome da camada usada para capturar FPS</string>
+    <string name="customize_overlay_layer_name">Nome da camada</string>
+    <string name="customize_overlay_fps_summary">Quadro pré-segundo do app em primeiro plano</string>
+    <string name="customize_overlay_style">Estilo</string>
+    <string name="customize_overlay_data">Dados</string>
+    <string name="customize_overlay_general">Geral</string>
+    <string name="customize_overlay">Customizar sobreposição</string>
+    <string name="no_records">Não há registros</string>
+    <string name="dialog_delete_record_message">Tem certeza que deseja excluir este registro\? A operação não pode ser desfeita.</string>
+    <string name="dialog_delete_record_title">Excluir registro\?</string>
+    <string name="delete">Excluir</string>
+    <string name="chart_marker">%1$s
+\nem %2$s</string>
+    <string name="chart_frame_time_marker">%1$.2f ms
+\nno quadro %2$d</string>
+    <string name="frame_time">Tempo de quadro</string>
+    <string name="max_frame_time">Tempo máximo de quadros</string>
+    <string name="avg_frame_time">Tempo médio de quadros</string>
+    <string name="total_frames">Quadros totais</string>
+    <string name="avg_fps">Média de FPS</string>
+    <string name="shizuku_is_not_installed_or_running">Shizuku não está instalado ou não está em execução.</string>
+    <string name="requires_shizuku_button_download">Baixar %s</string>
+    <string name="requires_shizuku_description_rooted">Para dispositivos com acesso root, você pode usar Sui, um módulo Magisk de código aberto.</string>
+    <string name="requires_shizuku_description">Este app requer Shizuku para funcionar. Shizuku é um projeto de código aberto.</string>
+    <string name="game_app">App de jogo</string>
+    <string name="view_record">Ver registro</string>
+    <string name="records_button_choose_app">Escolher apps para registrar</string>
+    <string name="records_button_view">Ver registros</string>
+    <string name="records_description">Registre informações de desempenho para apps selecionados.</string>
+    <string name="records">Registros</string>
+    <string name="records_button_customize">Customizar</string>
+    <string name="overlay_description">Exibição em tempo real da taxa de quadros e outras informações na tela.</string>
+    <string name="overlay">Sobreposição</string>
+    <string name="service_version">Versão %d</string>
+    <string name="service_is_upgrading">O serviço está sendo atualizado</string>
+    <string name="service_is_not_running">O serviço não está em execução</string>
+    <string name="service_is_running">O serviço está em execução</string>
+    <string name="stop">Parar</string>
+    <string name="start">Iniciar</string>
+    <string name="translators">Igor</string>
+</resources>

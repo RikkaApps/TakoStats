@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="translators">(developers)</string>
     <string name="start">开启</string>
@@ -147,4 +148,8 @@
     <string name="customize_overlay_hide_from_lock_screen_summary_compatibility_mode">兼容模式叠加层永远不显示在锁定屏幕上</string>
     <string name="customize_overlay_memory_usage_percentage">内存使用百分比（整个设备）</string>
     <string name="customize_overlay_memory_usage">内存使用量（整个设备）</string>
+    <string name="dialog_purchase_not_verified_message">为避免欺诈，购买需要定期验证。 请不要阻止应用程序访问网络。
+\n
+\n一段时间未成功验证后，应用程序将停止工作。</string>
+    <string name="dialog_purchase_not_verified_button_retry">重试</string>
 </resources>

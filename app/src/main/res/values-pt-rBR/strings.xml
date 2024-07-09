@@ -2,7 +2,7 @@
 <resources>
     <string name="export_has_been_saved_to">O arquivo foi salvo em %s.</string>
     <string name="export_error_title">Algo deu errado</string>
-    <string name="export_progress_please_wait">Por favor, aguarde</string>
+    <string name="export_progress_please_wait">Por favor, aguarde.</string>
     <string name="export_sub_progress">%1$d/%2$d</string>
     <plurals name="export_progress">
         <item quantity="one">Exportando %1$d de %2$d registro</item>
@@ -16,7 +16,7 @@
     </plurals>
     <string name="export_other_locations_description">Escolha uma pasta deste dispositivo ou qualquer app que suporte SAF (Storage Access Framework), como Google Drive, OneDrive, etc.</string>
     <string name="export_other_locations">Outros locais</string>
-    <string name="export_device_storage_description">%s pasta</string>
+    <string name="export_device_storage_description">Pasta %s</string>
     <string name="export_device_storage">Armazenamento do dispositivo</string>
     <plurals name="export_records_to">
         <item quantity="one">Exportar %d registro para</item>
@@ -29,7 +29,7 @@
     <string name="export">Exportar</string>
     <string name="compatibility_mode_overlay_button_my_device_has_no_problem">Não há problema no meu dispositivo</string>
     <string name="compatibility_mode_overlay_description">Se você encontrar algum problema, incluindo, entre outros, \"a sobreposição não é exibida\", \"o serviço para imediatamente após a inicialização\", pode ser porque seu dispositivo fez muitas modificações no sistema Android. Ative a sobreposição do modo de compatibilidade e tente novamente.</string>
-    <string name="thank_you_for_participating_in_open_beta">Obrigado por participar do beta público (um desconto foi incluído no preço de compra)</string>
+    <string name="thank_you_for_participating_in_open_beta">Obrigado por participar do beta público (um desconto foi incluído no preço da compra)</string>
     <string name="temperature_unit_fahrenheit">Fahrenheit (℉)</string>
     <string name="temperature_unit_celsius">Celsius (℃)</string>
     <string name="settings_temperature_unit">Unidade de temperatura</string>
@@ -57,9 +57,9 @@
     <string name="ignore_compat_mode_overlay_title">Não solicita mais o modo de compatibilidade\?</string>
     <string name="compat_mode_overlay_requires_notification">Por favor, conceda permissão de notificação.</string>
     <string name="compat_mode_overlay_requires_display_over_other_apps">Por favor, conceda a permissão para \"Sobrepor a outros apps\".</string>
-    <string name="compat_mode_overlay_description_limits_3">A otimização da bateria precisa ser desativada para este app.</string>
-    <string name="compat_mode_overlay_description_limits_2">Não é possível exibir alguns apps (por exemplo, Configurações do sistema Android).</string>
-    <string name="compat_mode_overlay_description_limits_1">Alguns apps (por exemplo, o Instalador de pacotes do sistema Android) se recusam a responder às ações do usuário se houver apps exibidos nele. Você pode ocultar temporariamente a sobreposição por meio da notificação ou nas Configurações rápidas.</string>
+    <string name="compat_mode_overlay_description_limits_3">A otimização de bateria precisa ser desativada para este app.</string>
+    <string name="compat_mode_overlay_description_limits_2">Não é possível exibir alguns apps (ex.: Configurações do sistema Android).</string>
+    <string name="compat_mode_overlay_description_limits_1">Alguns apps (ex.: o Instalador de pacotes do sistema Android) se recusam a responder às ações do usuário se houver apps exibidos nele. Você pode ocultar temporariamente a sobreposição por meio da notificação ou nas Configurações rápidas.</string>
     <string name="compat_mode_overlay_description_limits">No modo de compatibilidade, como a sobreposição é mostrada pelo app, existem alguns limites.</string>
     <string name="compat_mode_overlay_description">O modo de compatibilidade só deve ser usado se a sobreposição não puder ser exibida no seu dispositivo.</string>
     <string name="compat_mode_overlay">Sobreposição do modo de compatibilidade</string>
@@ -103,7 +103,7 @@
     <string name="customize_overlay_upload_speed">Velocidade de upload</string>
     <string name="customize_overlay_download_speed">Velocidade de download</string>
     <string name="customize_overlay_background_color">Cor de fundo</string>
-    <string name="customize_overlay_show_background">Fundo</string>
+    <string name="customize_overlay_show_background">Plano de fundo</string>
     <string name="customize_overlay_temperatures_may_not_support_all_devices">A disponibilidade e a precisão dos dados de temperatura variam de acordo com o dispositivo.</string>
     <string name="customize_overlay_skin_temperature">Temperatura da pele do dispositivo</string>
     <string name="customize_overlay_battery_temperature">Temperatura da bateria</string>
@@ -112,9 +112,9 @@
     <string name="customize_overlay_position_bottom_left">Canto inferior esquerdo</string>
     <string name="customize_overlay_position_bottom_right">Canto inferior direito</string>
     <string name="customize_overlay_position_bottom_center">Centro inferior</string>
-    <string name="customize_overlay_position_center_right">Centro-direita</string>
+    <string name="customize_overlay_position_center_right">Centro direito</string>
     <string name="customize_overlay_position_center">Centro</string>
-    <string name="customize_overlay_position_center_left">Centro-esquerda</string>
+    <string name="customize_overlay_position_center_left">Centro esquerdo</string>
     <string name="customize_overlay_position_top_right">Canto superior direito</string>
     <string name="customize_overlay_position_top_center">Centro superior</string>
     <string name="customize_overlay_position_top_left">Canto superior esquerdo</string>

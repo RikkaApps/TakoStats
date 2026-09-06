@@ -6,7 +6,7 @@ This repository is the issue tracker for [TakoStats](https://play.google.com/sto
 
 You can click [Issues](https://github.com/RikkaApps/TakoStats/issues/new) to report a bug or submit a feature request.
 
-You can use [Weblate](https://weblate.rikka.app/projects/takostats/) or creating a pull request directly to help us translate TakoStats into your language.
+You can use [Weblate](https://weblate.rikka.app/projects/takostats/) or create a pull request directly to help us translate TakoStats into your language.
 
 ## 这是什么？
 
